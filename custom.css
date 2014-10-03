@@ -36,7 +36,8 @@ width:580px;
 }
 
 a{
-color:grey;
+font-weight:bold;
+color:#6D3B22;
 }
 
 #connections{
