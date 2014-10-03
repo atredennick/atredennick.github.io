@@ -30,8 +30,9 @@ body>header div a:hover{
 }
 
 #content{
-background-color:grey;
-width:462px;
+opacity:0.8;
+background-color:#D3DDDE;
+width:580px;
 }
 
 a{
