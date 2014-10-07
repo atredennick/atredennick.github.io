@@ -122,3 +122,16 @@ z-index:3000;
 bottom:0;
 right:0;
 }
+
+footer2{
+-webkit-border-radius: 10px 10px 0 0;
+	-moz-border-radius: 10px 10px 0 0;
+		border-radius: 10px 10px 0 0;
+padding:5px;
+background:white;
+overflow:hidden;
+position:fixed;
+z-index:3000;
+bottom:0;
+right:5;
+}
