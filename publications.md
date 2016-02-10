@@ -5,13 +5,13 @@ title: Publications
 
 ### [On Google scholar](https://scholar.google.com/citations?user=QGPaeccAAAAJ&hl=en)
 
-#### <span style="color:blue">In review/revision</span>
+#### <span style="color:DarkSlateBlue">In review/revision</span>
 
 **Tredennick, A.T.**, M.B. Hooten, C.L. Aldridge, C. Homer, A. Kleinhesselink, and P.B. Adler. In Review. Forecasting climate change impacts on plant populations over large spatial extents. [[repo]](https://github.com/atredennick/sageAbundance)
 
 **Tredennick, A.T.** and P.B. Adler. In revision. Do we need demographic data to forecast population responses to climate change? [[preprint]](http://biorxiv.org/content/biorxiv/early/2015/08/30/025742.full.pdf) [[repo]](https://github.com/atredennick/MicroMesoForecast)
 
-####  <span style="color:blue">In press/published</span>
+####  <span style="color:DarkSlateBlue">In press/published</span>
 
 **Tredennick, A.T.**, P.B. Adler, J.B. Grace, W.S. Harpole, E.T. Borer, E.W. Seabloom, and 36 coauthors. 2016. Comment on "Worldwide evidence of a unimodal relationship between productivity and plant species richness". *Science* 35(6272):457a-457c. [[doi]](http://science.sciencemag.org/content/351/6272/457.1) [[pdf]](http://science.sciencemag.org/content/sci/351/6272/457.1.full.pdf) [[repo]](https://github.com/atredennick/prodDiv)
 
