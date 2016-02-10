@@ -29,7 +29,7 @@ Rice, J., **A.T. Tredennick**, and L. Joyce. 2012. Climate change on the Shoshon
 
 Sutton, A.E., J. Dohn, K. Loyd, **A.T. Tredennick**, G. Bucini, A. Solorzano, L. Prihodko, and N.P Hanan. 2009. Does warming increase the risk of civil war in Africa? (Letter) *Proceedings of the National Academy of Sciences 107(25):E102. [[doi]](http://www.pnas.org/content/107/25/E102.full) [[pdf]](http://www.pnas.org/content/107/25/E102.full.pdf)
 
-## Additional writings
+## Other writings
 
 Blog post on the relationship between climate change and war [[doi]](http://nrelscience.org/2013/09/10/correlations-between-climate-and-conflict-are-intrigueing-but-contain-little-information/)
 
