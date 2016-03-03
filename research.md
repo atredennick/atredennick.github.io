@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-**What makes populations, communities, and ecosystems fluctuate in time and space? Why are some communities more stable than others? Given the inherently variability of ecological systems, how can we best forecast future states at spatial scales relevant to land managers?** These questions form the core of my research program, and I strive to answer them by bring together sophisticated dynamic statistical models and data. A major theme throughout my research is the concept that ecosystem functioning can ultimately be understood through the lens of population dynamics (e.g., [Michel Loreau's great book, 'From Populations to Ecosystems'](http://press.princeton.edu/titles/9238.html)). Thus, I use dynamic population models and long term datasets to understand what makes communities and ecosystems stable, or not.
+**What makes populations, communities, and ecosystems fluctuate in time and space? Why are some communities more stable than others? Given the inherently variability of ecological systems, how can we best forecast future states at spatial scales relevant to land managers?** These questions form the core of my research program, and I strive to answer them by bringing together dynamic statistical models and data. A major theme throughout my research is the concept that ecosystem functioning can ultimately be understood through the lens of population dynamics (e.g., [Michel Loreau's great book, 'From Populations to Ecosystems'](http://press.princeton.edu/titles/9238.html)). Thus, I use dynamic population models and long term datasets to understand what makes communities and ecosystems stable, or not.
 
 ### Understanding the drivers of ecosystem stability from a population perspective
 
@@ -13,7 +13,7 @@ I am also collaborating with [Kevin Wilcox](http://kevinwilcox.weebly.com/), [Sa
 
 ### Forecasting population responses to climate change
 
-A major challenge facing ecology in the 21st century is predicting the consequences of climate change. To meet this challenge, I am developing new methods to use remotely sensed time series of plant abundance to make dynamic population forecasts at the landscape scale. Peter Adler and I are also [testing different approaches for making population forecasts](http://biorxiv.org/content/early/2015/08/30/025742) at spatial scales beyond the traditional field study plot.
+A major challenge facing ecology in the 21st century is predicting the consequences of climate change. To meet this challenge, I am developing new methods to use remotely-sensed time series of plant abundance to make dynamic population forecasts at the landscape scale. Peter Adler and I are also [testing different approaches for making population forecasts](http://biorxiv.org/content/early/2015/08/30/025742) at spatial scales beyond the traditional field study plot.
 
 ### Tree harvest in African savannas
 
