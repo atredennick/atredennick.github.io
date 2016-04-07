@@ -7,17 +7,17 @@ title: Publications
 
 #### <span style="color:DarkSlateBlue">In review/revision</span>
 
-**Tredennick, A.T.**, C. de Mazancourt, M. Loreau, and P.B. Adler. In Review. Environmental responses, not species interactions, determine species synchrony in natural plant communities. [[repo]](https://github.com/atredennick/community_synchrony)
+**Tredennick, A.T.**, C. de Mazancourt, M. Loreau, and P.B. Adler. In Review. Environmental responses, not species interactions, determine species synchrony in natural plant communities. [[bioRxiv]](http://biorxiv.org/content/early/2016/04/06/047480) [[repo]](https://github.com/atredennick/community_synchrony)
 
 **Tredennick, A.T.**, M.B. Hooten, C.L. Aldridge, C. Homer, A. Kleinhesselink, and P.B. Adler. In Review. Forecasting climate change impacts on plant populations over large spatial extents. [[repo]](https://github.com/atredennick/sageAbundance)
 
-**Tredennick, A.T.** and P.B. Adler. In revision. Do we need demographic data to forecast population responses to climate change? [[preprint]](http://biorxiv.org/content/biorxiv/early/2015/08/30/025742.full.pdf) [[repo]](https://github.com/atredennick/MicroMesoForecast)
+**Tredennick, A.T.** and P.B. Adler. In revision. Do we need demographic data to forecast population responses to climate change? [[bioRxiv]](http://biorxiv.org/content/biorxiv/early/2015/08/30/025742) [[repo]](https://github.com/atredennick/MicroMesoForecast)
 
 ####  <span style="color:DarkSlateBlue">In press/published</span>
 
 **Tredennick, A.T.**, P.B. Adler, J.B. Grace, W.S. Harpole, E.T. Borer, E.W. Seabloom, and 36 coauthors. 2016. Comment on "Worldwide evidence of a unimodal relationship between productivity and plant species richness". *Science* 35(6272):457a-457c. [[doi]](http://science.sciencemag.org/content/351/6272/457.1) [[pdf]](http://science.sciencemag.org/content/sci/351/6272/457.1.full.pdf) [[repo]](https://github.com/atredennick/prodDiv)
 
-**Tredennick, A.T.**, M. Karemb&eacute;, F. Demb&eacute;l&eacute;, J.D. Dohn, and N.P. Hanan. 2015. No effects of fire, large herbivores, and their interaction on regrowth of harvested trees in two West African savannahs. *African Journal of Ecology* 53(4):487-495. [[doi]](http://onlinelibrary.wiley.com/doi/10.1111/aje.12238/abstract) [[preprint]](https://peerj.com/preprints/718.pdf) [[repo]](https://github.com/atredennick/HarvestExperiment)
+**Tredennick, A.T.**, M. Karemb&eacute;, F. Demb&eacute;l&eacute;, J.D. Dohn, and N.P. Hanan. 2015. No effects of fire, large herbivores, and their interaction on regrowth of harvested trees in two West African savannahs. *African Journal of Ecology* 53(4):487-495. [[doi]](http://onlinelibrary.wiley.com/doi/10.1111/aje.12238/abstract) [[peerJ preprint]](https://peerj.com/preprints/718.pdf) [[repo]](https://github.com/atredennick/HarvestExperiment)
 
 Hanan, N.P., **A.T. Tredennick**, L. Prihodko, G. Bucini, and J.D. Dohn. 2015. Analysis of stable states in global savannas -- a response to Staver and Hansen. *Global Ecology and Biogeography* 24(8):988-989. [[doi]](http://onlinelibrary.wiley.com/doi/10.1111/geb.12321/full) [[pdf]](http://onlinelibrary.wiley.com/doi/10.1111/geb.12321/epdf)
 
