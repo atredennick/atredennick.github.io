@@ -8,3 +8,5 @@ I am a National Science Foundation Postdoctoral Fellow in Biology and Mathematic
 Contact me at atredenn@gmail.com
 
 Follow me on [twitter](https://twitter.com/atredennick?lang=en) and fork me on [GitHub](https://github.com/atredennick).
+
+<!-- start Publons.com widget --><iframe src="https://publons.com/author/1003663/widget/embed/?width=640&height=460" width="640" height="460" style="border: solid 1px #ddd;"></iframe><!-- end Publons.com widget -->
