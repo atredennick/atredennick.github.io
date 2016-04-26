@@ -9,4 +9,4 @@ Contact me at atredenn@gmail.com
 
 Follow me on [twitter](https://twitter.com/atredennick?lang=en) and fork me on [GitHub](https://github.com/atredennick).
 
-<iframe src="https://publons.com/author/1003663/widget/embed/?width=640&height=460" width="640" height="460" style="border: solid 1px #ddd;"></iframe>
+<iframe src="https://publons.com/author/1003663/widget/embed/?width=640&height=460" width="540" height="360" style="border: solid 1px #ddd;"></iframe>
