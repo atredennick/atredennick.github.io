@@ -9,9 +9,9 @@ title: Publications
 
 **Tredennick, A.T.**, C. de Mazancourt, M. Loreau, and P.B. Adler. In Revision. Environmental responses, not species interactions, determine species synchrony in natural plant communities. [[bioRxiv]](http://biorxiv.org/content/early/2016/04/06/047480) [[repo]](https://github.com/atredennick/community_synchrony)
 
-**Tredennick, A.T.**, M.B. Hooten, C.L. Aldridge, C. Homer, A. Kleinhesselink, and P.B. Adler. In Review. Forecasting climate change impacts on plant populations over large spatial extents. [[repo]](https://github.com/atredennick/sageAbundance)
+**Tredennick, A.T.**, M.B. Hooten, C.L. Aldridge, C. Homer, A. Kleinhesselink, and P.B. Adler. In Revision. Forecasting climate change impacts on plant populations over large spatial extents. [[repo]](https://github.com/atredennick/sageAbundance)
 
-**Tredennick, A.T.** and P.B. Adler. In revision. Do we need demographic data to forecast population responses to climate change? [[bioRxiv]](http://biorxiv.org/content/biorxiv/early/2015/08/30/025742) [[repo]](https://github.com/atredennick/MicroMesoForecast)
+**Tredennick, A.T.**, M.B. Hooten, and P.B. Adler. In revision. Do we need demographic data to forecast the state of plant populations? [[bioRxiv]](http://biorxiv.org/content/biorxiv/early/2015/08/30/025742) [[repo]](https://github.com/atredennick/MicroMesoForecast)
 
 ####  <span style="color:DarkSlateBlue">In press/published</span>
 
