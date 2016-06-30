@@ -8,6 +8,8 @@ title: Publications
 #### <span style="color:DarkSlateBlue">In review/revision</span>
 
 **Tredennick, A.T.**, C. de Mazancourt, M. Loreau, and P.B. Adler. In Revision. Environmental responses, not species interactions, determine species synchrony in natural plant communities. [[bioRxiv]](http://biorxiv.org/content/early/2016/04/06/047480) [[repo]](https://github.com/atredennick/community_synchrony) 
+
+<!---
 <table>
 <tr>
 <td> <div style="width:50px"> <img src=https://cloud.githubusercontent.com/assets/6196005/4693065/01171b6a-5789-11e4-9471-d7e27c7a1595.png> </div> </td>
@@ -27,6 +29,7 @@ title: Publications
 </table>
 \
 \
+--->
 
 **Tredennick, A.T.**, M.B. Hooten, C.L. Aldridge, C. Homer, A. Kleinhesselink, and P.B. Adler. In Revision. Forecasting climate change impacts on plant populations over large spatial extents. [[repo]](https://github.com/atredennick/sageAbundance)
 
