@@ -7,7 +7,7 @@ title: Publications
 
 #### <span style="color:DarkSlateBlue">In review/revision</span>
 
-**Tredennick, A.T.**, C. de Mazancourt, M. Loreau, and P.B. Adler. In Revision. Environmental responses, not species interactions, determine species synchrony in natural plant communities. [[bioRxiv]](http://biorxiv.org/content/early/2016/04/06/047480) [[repo]](https://github.com/atredennick/community_synchrony) 
+**Tredennick, A.T.**, C. de Mazancourt, M. Loreau, and P.B. Adler. In Review. Environmental responses, not species interactions, determine species synchrony in natural plant communities. [[bioRxiv]](http://biorxiv.org/content/early/2016/04/06/047480) [[repo]](https://github.com/atredennick/community_synchrony) 
 
 <!---
 <table>
