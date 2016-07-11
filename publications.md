@@ -9,31 +9,9 @@ title: Publications
 
 **Tredennick, A.T.**, C. de Mazancourt, M. Loreau, and P.B. Adler. In Review. Environmental responses, not species interactions, determine species synchrony in natural plant communities. [[bioRxiv]](http://biorxiv.org/content/early/2016/07/05/047480) [[repo]](https://github.com/atredennick/community_synchrony) 
 
-<!---
-<table>
-<tr>
-<td> <div style="width:50px"> <img src=https://cloud.githubusercontent.com/assets/6196005/4693065/01171b6a-5789-11e4-9471-d7e27c7a1595.png> </div> </td>
-
-<td> <div style="width:50px"> <img src=https://cloud.githubusercontent.com/assets/6196005/4692966/2e5fb560-5783-11e4-998f-864f63243f94.png> </div> </td>
-
-<td> <div style="width:50px"> <img src=https://cloud.githubusercontent.com/assets/6196005/4693079/14e83390-5789-11e4-9084-34007e4810a3.png> </div> </td>
-
-<td> <div style="width:50px"> <img src=https://cloud.githubusercontent.com/assets/6196005/4693073/14c1a0c2-5789-11e4-865e-45a26b2c20c0.png> </div> </td>
-
-<td> <div style="width:50px"> <img src=https://cloud.githubusercontent.com/assets/6196005/4693078/14e0a4ae-5789-11e4-927c-6143eef2dea8.png> </div> </td>
-
-<td> <div style="width:50px"> <img src=https://cloud.githubusercontent.com/assets/6196005/4693068/0d6f8dd4-5789-11e4-89a2-a655f0f41f87.png> </div> </td>
-
-<td> <div style="width:50px"> <img src=https://cloud.githubusercontent.com/assets/6196005/4693074/14c32a78-5789-11e4-8250-1a42155dd267.png> </div> </td>
-</tr>
-</table>
-\
-\
---->
-
 **Tredennick, A.T.**, M.B. Hooten, C.L. Aldridge, C. Homer, A. Kleinhesselink, and P.B. Adler. In Review. Forecasting climate change impacts on plant populations over large spatial extents. [[repo]](https://github.com/atredennick/sageAbundance)
 
-**Tredennick, A.T.**, M.B. Hooten, and P.B. Adler. In revision. Do we need demographic data to forecast plant population dynamics? [[repo]](https://github.com/atredennick/MicroMesoForecast)
+**Tredennick, A.T.**, M.B. Hooten, and P.B. Adler. In Review. Do we need demographic data to forecast plant population dynamics? [[repo]](https://github.com/atredennick/MicroMesoForecast)
 
 ####  <span style="color:DarkSlateBlue">In press/published</span>
 
