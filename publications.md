@@ -13,7 +13,7 @@ title: Publications
 
 ####  <span style="color:DarkSlateBlue">In press/published</span>
 
-**Tredennick, A.T.**, M.B. Hooten, C.L. Aldridge, C. Homer, A. Kleinhesselink, and P.B. Adler. In press. Forecasting climate change impacts on plant populations over large spatial extents. *Ecosphere*. [[repo]](https://github.com/atredennick/sageAbundance)
+**Tredennick, A.T.**, M.B. Hooten, C.L. Aldridge, C. Homer, A. Kleinhesselink, and P.B. Adler. In press. Forecasting climate change impacts on plant populations over large spatial extents. *Ecosphere*. [[repo]](https://github.com/atredennick/sageAbundance) [[figshare]](http://figshare.com/articles/sageAbundance/3485237)
 
 **Tredennick, A.T.**, P.B. Adler, J.B. Grace, W.S. Harpole, E.T. Borer, E.W. Seabloom, and 36 coauthors. 2016. Comment on "Worldwide evidence of a unimodal relationship between productivity and plant species richness". *Science* 35(6272):457a-457c. [[doi]](http://science.sciencemag.org/content/351/6272/457.1) [[pdf]](http://science.sciencemag.org/content/sci/351/6272/457.1.full.pdf) [[repo]](https://github.com/atredennick/prodDiv)
 
