@@ -9,11 +9,11 @@ title: Publications
 
 **Tredennick, A.T.**, C. de Mazancourt, M. Loreau, and P.B. Adler. In Review. Environmental responses, not species interactions, determine species synchrony in natural plant communities. [[bioRxiv]](http://biorxiv.org/content/early/2016/07/05/047480) [[repo]](https://github.com/atredennick/community_synchrony) 
 
-**Tredennick, A.T.**, M.B. Hooten, C.L. Aldridge, C. Homer, A. Kleinhesselink, and P.B. Adler. In Review. Forecasting climate change impacts on plant populations over large spatial extents. [[repo]](https://github.com/atredennick/sageAbundance)
-
 **Tredennick, A.T.**, M.B. Hooten, and P.B. Adler. In Review. Do we need demographic data to forecast plant population dynamics? [[repo]](https://github.com/atredennick/MicroMesoForecast)
 
 ####  <span style="color:DarkSlateBlue">In press/published</span>
+
+**Tredennick, A.T.**, M.B. Hooten, C.L. Aldridge, C. Homer, A. Kleinhesselink, and P.B. Adler. In press. Forecasting climate change impacts on plant populations over large spatial extents. *Ecosphere*. [[repo]](https://github.com/atredennick/sageAbundance)
 
 **Tredennick, A.T.**, P.B. Adler, J.B. Grace, W.S. Harpole, E.T. Borer, E.W. Seabloom, and 36 coauthors. 2016. Comment on "Worldwide evidence of a unimodal relationship between productivity and plant species richness". *Science* 35(6272):457a-457c. [[doi]](http://science.sciencemag.org/content/351/6272/457.1) [[pdf]](http://science.sciencemag.org/content/sci/351/6272/457.1.full.pdf) [[repo]](https://github.com/atredennick/prodDiv)
 
