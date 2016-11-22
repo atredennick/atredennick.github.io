@@ -7,7 +7,7 @@ title: Publications
 
 #### <span style="color:DarkSlateBlue">In review/revision</span>
 
-**Tredennick, A.T.**, C. de Mazancourt, M. Loreau, and P.B. Adler. In Review. Environmental responses, not species interactions, determine species synchrony in natural plant communities. [[bioRxiv]](http://biorxiv.org/content/early/2016/07/05/047480) [[repo]](https://github.com/atredennick/community_synchrony)
+**Tredennick, A.T.**, C. de Mazancourt, M. Loreau, and P.B. Adler. In Review. Environmental responses, not species interactions, determine species synchrony in natural plant communities. [[bioRxiv]](http://biorxiv.org/content/early/2016/11/22/047480) [[repo]](https://github.com/atredennick/community_synchrony)
 
 Kulmatiski, A., P.B. Adler, J.M. Stark, and **A.T. Tredennick**. In Review. Water and nitrogen uptake are better associated with resource availability than root biomass.
 
