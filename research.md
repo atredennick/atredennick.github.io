@@ -9,7 +9,7 @@ title: Research
 
 ### The Drivers of Ecosystem Stability
 
-Ecosystems are hierarchical: **individuals** within **populations** within **communities** within **metacommunities** within... You get the idea. 
+Ecosystems are hierarchical: *individuals* within *populations* within *communities* within *metacommunities* within... You get the idea. 
 The dynamics within each hierarchical level help to determine the stability of ecosystem functioning through time and over space.
 Our work seeks to understand the processes the determine stability at multiple spatial scales.
 At the local, community level, we use multi-species population models fit to long term demographic data to decipher how environmental stochasticity, demographic stochasticity, and interspecific interactions combine to determine the degree of synchrony.
