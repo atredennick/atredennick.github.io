@@ -8,6 +8,7 @@ title: Publications
 --------------------------------------------
 
 #### <span style="color:DarkSlateBlue">In review/revision</span>
+**Tredennick, A.T.**, P.B. Adler, and F.R. Adler. In Review. The relationship between species richness and ecosystem variability is shaped by the mechanism of coexistence.
 
 **Tredennick, A.T.**, C. de Mazancourt, M. Loreau, and P.B. Adler. In Review. Environmental responses, not species interactions, determine synchrony of dominant species in semiarid grasslands. [[bioRxiv]](http://biorxiv.org/content/early/2016/11/22/047480) [[repo]](https://github.com/atredennick/community_synchrony)
 
@@ -17,7 +18,7 @@ Kulmatiski, A., P.B. Adler, J.M. Stark, and **A.T. Tredennick**. In Review. Wate
 
 ####  <span style="color:DarkSlateBlue">In press/published</span>
 
-**Tredennick, A.T.**, M.B. Hooten, and P.B. Adler. (2016). Do we need demographic data to forecast plant population dynamics? *Methods in Ecology and Evolution*. [[repo]](https://github.com/atredennick/MicroMesoForecast)
+**Tredennick, A.T.**, M.B. Hooten, and P.B. Adler. (2016). Do we need demographic data to forecast plant population dynamics? *Methods in Ecology and Evolution*, Early View (online). [[repo]](https://github.com/atredennick/MicroMesoForecast)
 [[figshare]](https://figshare.com/articles/MicroMesoForecast/4007520)
 [[bioRxiv]](http://biorxiv.org/content/early/2016/10/17/025742)
 [[doi]](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12686/full)
