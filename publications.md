@@ -9,7 +9,7 @@ title: Publications
 
 #### <span style="color:DarkSlateBlue">In review/revision</span>
 **Tredennick, A.T.**, P.B. Adler, and F.R. Adler. In Review. The relationship between species richness and ecosystem variability is shaped by the mechanism of coexistence.
-[[bioRxiv]](to_add)
+[[bioRxiv]](http://biorxiv.org/content/early/2017/01/04/098384)
 [[repo]](https://github.com/atredennick/Coexistence-Stability)
 
 **Tredennick, A.T.**, C. de Mazancourt, M. Loreau, and P.B. Adler. In Review. Environmental responses, not species interactions, determine synchrony of dominant species in semiarid grasslands. [[bioRxiv]](http://biorxiv.org/content/early/2016/11/22/047480) [[repo]](https://github.com/atredennick/community_synchrony)
