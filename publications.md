@@ -12,13 +12,13 @@ title: Publications
 [[bioRxiv]](http://biorxiv.org/content/early/2017/01/04/098384)
 [[repo]](https://github.com/atredennick/Coexistence-Stability)
 
-**Tredennick, A.T.**, C. de Mazancourt, M. Loreau, and P.B. Adler. In Review. Environmental responses, not species interactions, determine synchrony of dominant species in semiarid grasslands. [[bioRxiv]](http://biorxiv.org/content/early/2016/11/22/047480) [[repo]](https://github.com/atredennick/community_synchrony)
-
 Kulmatiski, A., P.B. Adler, J.M. Stark, and **A.T. Tredennick**. In Review. Water and nitrogen uptake are better associated with resource availability than root biomass.
 
 --------------------------------------------
 
 ####  <span style="color:DarkSlateBlue">In press/published</span>
+
+**Tredennick, A.T.**, C. de Mazancourt, M. Loreau, and P.B. Adler. (In press). Environmental responses, not species interactions, determine synchrony of dominant species in semiarid grasslands, *Ecology*. [[bioRxiv]](http://biorxiv.org/content/early/2016/11/22/047480) [[repo]](https://github.com/atredennick/community_synchrony)
 
 **Tredennick, A.T.**, M.B. Hooten, and P.B. Adler. (2016). Do we need demographic data to forecast plant population dynamics? *Methods in Ecology and Evolution*, Early View (online). [[repo]](https://github.com/atredennick/MicroMesoForecast)
 [[figshare]](https://figshare.com/articles/MicroMesoForecast/4007520)
