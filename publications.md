@@ -18,7 +18,7 @@ Kulmatiski, A., P.B. Adler, J.M. Stark, and **A.T. Tredennick**. In Review. Wate
 
 ####  <span style="color:DarkSlateBlue">In press/published</span>
 
-**Tredennick, A.T.**, C. de Mazancourt, M. Loreau, and P.B. Adler. (In press). Environmental responses, not species interactions, determine synchrony of dominant species in semiarid grasslands, *Ecology*. [[bioRxiv]](http://biorxiv.org/content/early/2016/11/22/047480) [[repo]](https://github.com/atredennick/community_synchrony)
+**Tredennick, A.T.**, C. de Mazancourt, M. Loreau, and P.B. Adler. (In press). Environmental responses, not species interactions, determine synchrony of dominant species in semiarid grasslands, *Ecology*. [[bioRxiv]](http://biorxiv.org/content/early/2016/11/22/047480) [[doi]](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1757/full) [[repo]](https://github.com/atredennick/community_synchrony)
 
 **Tredennick, A.T.**, M.B. Hooten, and P.B. Adler. (2016). Do we need demographic data to forecast plant population dynamics? *Methods in Ecology and Evolution*, Early View (online). [[repo]](https://github.com/atredennick/MicroMesoForecast)
 [[figshare]](https://figshare.com/articles/MicroMesoForecast/4007520)
