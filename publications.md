@@ -12,11 +12,11 @@ title: Publications
 [[bioRxiv]](http://biorxiv.org/content/early/2017/01/04/098384)
 [[repo]](https://github.com/atredennick/Coexistence-Stability)
 
-Kulmatiski, A., P.B. Adler, J.M. Stark, and **A.T. Tredennick**. In Review. Water and nitrogen uptake are better associated with resource availability than root biomass.
-
 --------------------------------------------
 
 ####  <span style="color:DarkSlateBlue">In press/published</span>
+
+Kulmatiski, A., P.B. Adler, J.M. Stark, and **A.T. Tredennick**. (In press). Water and nitrogen uptake are better associated with resource availability than root biomass. *Ecosphere*.
 
 **Tredennick, A.T.**, C. de Mazancourt, M. Loreau, and P.B. Adler. (In press). Environmental responses, not species interactions, determine synchrony of dominant species in semiarid grasslands, *Ecology*. [[bioRxiv]](http://biorxiv.org/content/early/2016/11/22/047480) [[doi]](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1757/full) [[repo]](https://github.com/atredennick/community_synchrony)
 
