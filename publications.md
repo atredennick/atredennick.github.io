@@ -5,7 +5,9 @@ title: Publications
 
 ### [On Google scholar](https://scholar.google.com/citations?user=QGPaeccAAAAJ&hl=en)
 
-[![Google Scholar](./Google_Scholar_logo_2015.png)](https://scholar.google.com/citations?user=QGPaeccAAAAJ&hl=en)
+![](./Google_Scholar_logo_2015.png)
+
+(https://scholar.google.com/citations?user=QGPaeccAAAAJ&hl=en)
 
 --------------------------------------------
 
