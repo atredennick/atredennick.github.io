@@ -12,7 +12,7 @@ title: Research
 Ecosystems are hierarchical: *individuals* within *populations* within *communities* within *metacommunities* within... You get the idea. 
 The dynamics within each hierarchical level help to determine the stability of ecosystem functioning through time and over space.
 Our work seeks to understand the processes the determine stability at multiple spatial scales.
-At the local, community level, we use multi-species population models fit to long term demographic data to decipher how environmental stochasticity, demographic stochasticity, and interspecific interactions combine to [determine the degree of synchrony](http://biorxiv.org/content/early/2016/11/22/047480).
+At the local, community level, we use multi-species population models fit to long term demographic data to decipher how environmental stochasticity, demographic stochasticity, and interspecific interactions combine to [determine the degree of synchrony](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1757/full).
 Looking across spatial scales, I am collaborating with [Kevin Wilcox](http://kevinwilcox.weebly.com/), [Sally Koerner](http://sallykoerner.weebly.com/), [Emily Grman](http://www.emich.edu/biology/faculty/grman.php), and [Lauren Hallet](http://laurenmh.github.io/) on an empirical test of theory on the [drivers of ecosystem stability in space](http://onlinelibrary.wiley.com/doi/10.1111/ele.12292/abstract).
 We are using data from aound the globe to identify how asynchrony among species through time and communities in space determines aggregated, landscape level ecosystem stability.
 
