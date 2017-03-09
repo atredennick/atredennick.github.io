@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img src="att_cover.JPG" style="width: 1000px; height: 250px"  />
+<img src="att_cover.JPG" style="width: 700px; height: 175px"  />
 
 I am a National Science Foundation Postdoctoral Fellow in Biology and Mathematics working with [Peter Adler](https://qcnr.usu.edu/labs/adler_lab/) at Utah State University and [Fred Adler](http://www.math.utah.edu/~adler/) at the University of Utah. My research seeks to understand the **<span style="color:DarkSlateBlue">causes and consequences of biodiversity</span>** and to predict the impacts of climate change on plant populations.
 
