@@ -3,9 +3,7 @@ layout: page
 title: Publications
 ---
 
-### [On Google scholar](https://scholar.google.com/citations?user=QGPaeccAAAAJ&hl=en)
-
-<img src="Google_Scholar_logo_2015.png">
+[![Google Scholar](./Google_Scholar_logo_2015.jpg)](https://scholar.google.com/citations?user=QGPaeccAAAAJ&hl=en)
 
 --------------------------------------------
 
