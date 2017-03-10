@@ -11,8 +11,18 @@ Contact me at atredenn@gmail.com
 
 Follow me on [twitter](https://twitter.com/atredennick?lang=en) and fork me on [GitHub](https://github.com/atredennick).
 
-<!--
-<iframe src="https://publons.com/author/1003663/widget/embed/?width=640&height=460" width="540" height="360" style="border: solid 1px #ddd;"></iframe>
--->
+<br/>
+<br/>
+----------------------------------------
+<br/>
+<br/>
+
+## News
+
+* Our NEON and Powell Center workshop report, led by Mike Dietze, on the necessity of near-term, iterative forecasts in ecology now [online](http://figshare.com/articles/Iterative_ecological_forecasting_Needs_opportunities_and_challenges/4715317).
+
+* New paper on synchrony of dominant species in five grasslands to be published in *Ecology* ([online early](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1757/full)).
+
+* New (preprint)[http://biorxiv.org/content/early/2017/01/04/098384] posted on bioRxiv on species coexistence, environmental variability, and ecosystem stability.
 
 
