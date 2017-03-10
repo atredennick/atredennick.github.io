@@ -11,11 +11,8 @@ Contact me at atredenn@gmail.com
 
 Follow me on [twitter](https://twitter.com/atredennick?lang=en) and fork me on [GitHub](https://github.com/atredennick).
 
-<br/>
-<br/>
-----------------------------------------
-<br/>
-<br/>
+
+--------------------------------------------
 
 ## News
 
