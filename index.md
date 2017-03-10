@@ -20,6 +20,6 @@ Follow me on [twitter](https://twitter.com/atredennick?lang=en) and fork me on [
 
 * New paper on synchrony of dominant species in five grasslands to be published in *Ecology* ([online early](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1757/full)).
 
-* New (preprint)[http://biorxiv.org/content/early/2017/01/04/098384] posted on bioRxiv on species coexistence, environmental variability, and ecosystem stability.
+* New [preprint](http://biorxiv.org/content/early/2017/01/04/098384) posted on bioRxiv on species coexistence, environmental variability, and ecosystem stability.
 
 
