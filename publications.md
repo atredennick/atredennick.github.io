@@ -20,7 +20,7 @@ title: Publications
 
 Kulmatiski, A., P.B. Adler, J.M. Stark, and **A.T. Tredennick**. (2017). Water and nitrogen uptake are better associated with resource availability than root biomass. *Ecosphere* 8(3):e01738.
 [[doi]](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1738/full)
-[[pdf]]../pdfs/Kulmatiski_et_al-2017-Ecosphere.pdf)
+[[pdf]](../pdfs/Kulmatiski_et_al-2017-Ecosphere.pdf)
 
 **Tredennick, A.T.**, M.B. Hooten, and P.B. Adler. (2016). Do we need demographic data to forecast plant population dynamics? *Methods in Ecology and Evolution*, Early View (online). [[repo]](https://github.com/atredennick/MicroMesoForecast)
 [[figshare]](https://figshare.com/articles/MicroMesoForecast/4007520)
