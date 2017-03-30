@@ -8,9 +8,12 @@ title: Publications
 --------------------------------------------
 
 #### <span style="color:DarkSlateBlue">In review/revision</span>
-**Tredennick, A.T.**, P.B. Adler, and F.R. Adler. In Review. The relationship between species richness and ecosystem variability is shaped by the mechanism of coexistence.
+<span style="color:Grey">**Tredennick, A.T.**, P.B. Adler, and F.R. Adler. (In Review). The relationship between species richness and ecosystem variability is shaped by the mechanism of coexistence.</span>
 [[bioRxiv]](http://biorxiv.org/content/early/2017/01/04/098384)
 [[repo]](https://github.com/atredennick/Coexistence-Stability)
+
+<span style="color:Grey">Wilcox, K.R., **A.T. Tredennick**, S.E. Koerner, E. Grman, L.M. Hallett, M.L. Avolio, K.J. La Pierre, G.R. Houseman, F. Isbell, D.S. Johnson, et al. (In Review). Asynchrony among local communities stabilizes ecosystem function of metacommunities.</span>
+
 
 --------------------------------------------
 
