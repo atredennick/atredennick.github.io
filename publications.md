@@ -19,7 +19,7 @@ title: Publications
 
 ####  <span style="color:DarkSlateBlue">In press/published</span>
 
-**Tredennick, A.T.**, C. de Mazancourt, M. Loreau, and P.B. Adler. (In press). Environmental responses, not species interactions, determine synchrony of dominant species in semiarid grasslands, *Ecology*. [[bioRxiv]](http://biorxiv.org/content/early/2016/11/22/047480) [[doi]](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1757/full) [[repo]](https://github.com/atredennick/community_synchrony)
+**Tredennick, A.T.**, C. de Mazancourt, M. Loreau, and P.B. Adler. (2017). Environmental responses, not species interactions, determine synchrony of dominant species in semiarid grasslands, *Ecology* 98(4):971-981. [[bioRxiv]](http://biorxiv.org/content/early/2016/11/22/047480) [[doi]](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1757/full) [[repo]](https://github.com/atredennick/community_synchrony)
 
 Kulmatiski, A., P.B. Adler, J.M. Stark, and **A.T. Tredennick**. (2017). Water and nitrogen uptake are better associated with resource availability than root biomass. *Ecosphere* 8(3):e01738.
 [[doi]](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1738/full)
