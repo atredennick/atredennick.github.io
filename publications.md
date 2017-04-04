@@ -8,18 +8,18 @@ title: Publications
 --------------------------------------------
 
 #### <span style="color:DarkSlateBlue">In review/revision</span>
-<span style="color:Grey">Tredennick, A.T., P.B. Adler, and F.R. Adler. (In Review). The relationship between species richness and ecosystem variability is shaped by the mechanism of coexistence.</span>
+<span style="color:dimgray">Tredennick, A.T., P.B. Adler, and F.R. Adler. (In Review). The relationship between species richness and ecosystem variability is shaped by the mechanism of coexistence.</span>
 [[bioRxiv]](http://biorxiv.org/content/early/2017/01/04/098384)
 [[repo]](https://github.com/atredennick/Coexistence-Stability)
 
-<span style="color:Grey">Wilcox, K.R., A.T. Tredennick, S.E. Koerner, E. Grman, L.M. Hallett, M.L. Avolio, K.J. La Pierre, G.R. Houseman, F. Isbell, D.S. Johnson, et al. (In Review). Asynchrony among local communities stabilizes ecosystem function of metacommunities.</span>
+<span style="color:dimgray">Wilcox, K.R., A.T. Tredennick, S.E. Koerner, E. Grman, L.M. Hallett, M.L. Avolio, K.J. La Pierre, G.R. Houseman, F. Isbell, D.S. Johnson, et al. (In Review). Asynchrony among local communities stabilizes ecosystem function of metacommunities.</span>
 
 
 --------------------------------------------
 
 ####  <span style="color:DarkSlateBlue">In press/published</span>
 
-**Tredennick, A.T.**, C. de Mazancourt, M. Loreau, and P.B. Adler. (2017). Environmental responses, not species interactions, determine synchrony of dominant species in semiarid grasslands, *Ecology* 98(4):971-981. [[bioRxiv]](http://biorxiv.org/content/early/2016/11/22/047480) [[doi]](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1757/full) [[repo]](https://github.com/atredennick/community_synchrony)
+**Tredennick, A.T.**, C. de Mazancourt, M. Loreau, and P.B. Adler. (2017). Environmental responses, not species interactions, determine synchrony of dominant species in semiarid grasslands. *Ecology* 98(4):971-981. [[bioRxiv]](http://biorxiv.org/content/early/2016/11/22/047480) [[doi]](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1757/full) [[repo]](https://github.com/atredennick/community_synchrony)
 
 Kulmatiski, A., P.B. Adler, J.M. Stark, and **A.T. Tredennick**. (2017). Water and nitrogen uptake are better associated with resource availability than root biomass. *Ecosphere* 8(3):e01738.
 [[doi]](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1738/full)
