@@ -18,7 +18,7 @@ Follow me on [twitter](https://twitter.com/atredennick?lang=en) and fork me on [
 
 * New [paper](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1757/full) on species synchrony in grasslands published in the April issue of *Ecology*.
 
-* New [paper](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1738/full) published in *Ecosphere(), led by Andrew Kulmatiski, showing evidence of roots independently foraging for water and nitrogen in sagebrush steppe.
+* New [paper](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1738/full) published in *Ecosphere*, led by Andrew Kulmatiski, showing evidence of roots independently foraging for water and nitrogen in sagebrush steppe.
 
 * Our NEON and Powell Center workshop report, led by Mike Dietze, on the necessity of near-term, iterative forecasts in ecology now [online](http://figshare.com/articles/Iterative_ecological_forecasting_Needs_opportunities_and_challenges/4715317).
 
