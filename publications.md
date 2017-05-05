@@ -26,6 +26,10 @@ Tredennick, A.T., P.B. Adler, and F.R. Adler. (In Review). The relationship betw
 ###  <span style="color:DarkSlateBlue">Publications</span>
 
 #### 2017
+[Do we need demographic data to forecast plant population dynamics?](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12686/full) [[PDF]](../pdfs/Tredennick_etal_MEE_2017.pdf)
+[[Github repo]](https://github.com/atredennick/MicroMesoForecast)  
+**Andrew Tredennick**, Mevin Hooten, and Peter Adler
+
 [Environmental responses, not species interactions, determine synchrony of dominant species in semiarid grasslands](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1757/full) [[bioRxiv]](http://biorxiv.org/content/early/2016/11/22/047480) [[Github repo]](https://github.com/atredennick/community_synchrony)  
 **Andrew Tredennick**, Claire de Mazancourt, Michel Loreau, and Peter Adler.
 
@@ -33,10 +37,6 @@ Tredennick, A.T., P.B. Adler, and F.R. Adler. (In Review). The relationship betw
 Andrew Kulmatiski, Peter Adler, John Stark, and **Andrew Tredennick**
 
 #### 2016
-[Do we need demographic data to forecast plant population dynamics?](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12686/full) [[PDF]](../pdfs/Tredennick_etal_MEE_2017.pdf)
-[[Github repo]](https://github.com/atredennick/MicroMesoForecast)  
-**Andrew Tredennick**, Mevin Hooten, and Peter Adler
-
 [Forecasting climate change impacts on plant populations over large spatial extents](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1525/full) [[PDF]](../pdfs/Tredennick_etal_Ecosphere_2016.pdf)
 [[Github repo]](https://github.com/atredennick/sageAbundance)  
 **Andrew Tredennick**, Mevin Hooten, Cameron Aldridge, Collin Homer, Andrew Kleinhesselink, and Peter Adler

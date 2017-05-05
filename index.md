@@ -16,12 +16,16 @@ Follow me on [twitter](https://twitter.com/atredennick?lang=en) and fork me on [
 
 ## News
 
+* Our paper on forecasting plant population dynamics is in the latest issue of *Methods in Ecology and Evolution*. Read it [here](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12686/full).
+
 * New [paper](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1757/full) on species synchrony in grasslands published in the April issue of *Ecology*.
 
 * New [paper](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1738/full) published in *Ecosphere*, led by Andrew Kulmatiski, showing evidence of roots independently foraging for water and nitrogen in sagebrush steppe.
 
 * Our NEON and Powell Center workshop report, led by Mike Dietze, on the necessity of near-term, iterative forecasts in ecology now [online](http://figshare.com/articles/Iterative_ecological_forecasting_Needs_opportunities_and_challenges/4715317).
 
+<!---
 * New [preprint](http://biorxiv.org/content/early/2017/01/04/098384) posted on bioRxiv on species coexistence, environmental variability, and ecosystem stability.
+---->
 
 
