@@ -6,18 +6,9 @@ title: Publications
 [![Google Scholar](./Google_Scholar_logo_2015.jpg)](https://scholar.google.com/citations?user=QGPaeccAAAAJ&hl=en)
 
 --------------------------------------------
-
+<!----
 ### <span style="color:DarkSlateBlue">Preprints</span>
 
-[The relationship between species richness and ecosystem variability is shaped by the mechanism of coexistence](http://biorxiv.org/content/early/2017/01/04/098384) [[Github repo]](https://github.com/atredennick/Coexistence-Stability)  
-**Andrew Tredennick**, Peter Adler, and Frederick Adler
-
-<!----
-Tredennick, A.T., P.B. Adler, and F.R. Adler. (In Review). The relationship between species richness and ecosystem variability is shaped by the mechanism of coexistence.
-[[bioRxiv]](http://biorxiv.org/content/early/2017/01/04/098384)
-[[repo]](https://github.com/atredennick/Coexistence-Stability)
-
-<span style="color:dimgray">Wilcox, K.R., A.T. Tredennick, S.E. Koerner, E. Grman, L.M. Hallett, M.L. Avolio, K.J. La Pierre, G.R. Houseman, F. Isbell, D.S. Johnson, et al. (In Review). Asynchrony among local communities stabilizes ecosystem function of metacommunities.</span>
 ---->
 
 
@@ -26,6 +17,11 @@ Tredennick, A.T., P.B. Adler, and F.R. Adler. (In Review). The relationship betw
 ###  <span style="color:DarkSlateBlue">Publications</span>
 
 #### 2017
+[The relationship between species richness and ecosystem variability is shaped by the mechanism of coexistence](http://onlinelibrary.wiley.com/doi/10.1111/ele.12793/full)
+[[bioRxiv]](http://biorxiv.org/content/early/2017/03/31/098384)
+[[Github repo]](https://github.com/atredennick/Coexistence-Stability)  
+**Andrew Tredennick**, Peter Adler, and Frederick Adler
+
 [Do we need demographic data to forecast plant population dynamics?](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12686/full) [[PDF]](../pdfs/Tredennick_etal_MEE_2017.pdf)
 [[Github repo]](https://github.com/atredennick/MicroMesoForecast)  
 **Andrew Tredennick**, Mevin Hooten, and Peter Adler

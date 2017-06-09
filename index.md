@@ -16,7 +16,7 @@ Follow me on [twitter](https://twitter.com/atredennick?lang=en) and fork me on [
 
 ## News
 
-* Our paper linking modern coexistence theory and diversity--stability theory accepted for publication in *Ecology Letters*. Read the preprint [here](http://biorxiv.org/content/early/2017/03/31/098384).
+* Our paper linking modern coexistence theory and diversity--stability theory is online for 'Early View' at *Ecology Letters*. Read it [here](http://onlinelibrary.wiley.com/doi/10.1111/ele.12793/full).
 
 * Our paper on forecasting plant population dynamics is in the latest issue of *Methods in Ecology and Evolution*. Read it [here](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12686/full).
 
