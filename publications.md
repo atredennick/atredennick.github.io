@@ -38,7 +38,7 @@ Andrew Kulmatiski, Peter Adler, John Stark, and **Andrew Tredennick**
 **Andrew Tredennick**, Mevin Hooten, Cameron Aldridge, Collin Homer, Andrew Kleinhesselink, and Peter Adler
 
 [Comment on "Worldwide evidence of a unimodal relationship between productivity and plant species richness"](http://science.sciencemag.org/content/351/6272/457.1)[[PDF]](../pdfs/Tredennick_NutNet_SciComment.pdf) [[Github repo]](https://github.com/atredennick/prodDiv)  
-**Andrew Tredennick**, Peter Adler, James Grace, W. Stanley Harpole, Elizabeth Borer, Eeric Seabloom, and 36 coauthors
+**Andrew Tredennick**, Peter Adler, James Grace, W. Stanley Harpole, Elizabeth Borer, Eric Seabloom, and 36 coauthors
 
 #### 2015
 [No effects of fire, large herbivores, and their interaction on regrowth of harvested trees in two West African savannahs](http://onlinelibrary.wiley.com/doi/10.1111/aje.12238/abstract) [[PDF]](../pdfs/Tredennick_etal_AfrJEcol_2015.pdf) [[Github repo]](https://github.com/atredennick/HarvestExperiment)  
@@ -55,7 +55,7 @@ Niall Hanan, **Andrew Tredennick**, Lara Prihodko, Gabriela Bucini, and Justin D
 Niall Hanan, **Andrew Tredennick**, Lara Prihodko, Gabriela Bucini, and Justin Dohn
 
 #### 2013
-[Allometric convergence in savanna trees and implications for plant scaling modesl in variable ecosystems](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058241) [[PDF]](../pdfs/Tredennick_etal_PlosOne_2013.pdf) [[Github repo]](https://github.com/atredennick/-Git/tree/master/Savanna_Allometry)  
+[Allometric convergence in savanna trees and implications for plant scaling models in variable ecosystems](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058241) [[PDF]](../pdfs/Tredennick_etal_PlosOne_2013.pdf) [[Github repo]](https://github.com/atredennick/-Git/tree/master/Savanna_Allometry)  
 **Andrew Tredennick**, Lisa Patrick Bentley, and Niall Hanan
 
 #### 2012
