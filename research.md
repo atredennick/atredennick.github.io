@@ -13,11 +13,12 @@ Ecosystems are hierarchical: *individuals* within *populations* within *communit
 The dynamics within each hierarchical level help to determine the stability of ecosystem functioning through time and over space.
 Our work seeks to understand the processes the determine stability at multiple spatial scales.
 At the local, community level, we use multi-species population models fit to long term demographic data to decipher how environmental stochasticity, demographic stochasticity, and interspecific interactions combine to [determine the degree of synchrony](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1757/full).
+
 Looking across spatial scales, I am collaborating with [Kevin Wilcox](http://kevinwilcox.weebly.com/), [Sally Koerner](http://sallykoerner.weebly.com/), [Emily Grman](http://www.emich.edu/biology/faculty/grman.php), and [Lauren Hallet](http://laurenmh.github.io/) on an empirical test of theory on the [drivers of ecosystem stability in space](http://onlinelibrary.wiley.com/doi/10.1111/ele.12292/abstract).
 We are using data from aound the globe to identify how asynchrony among species through time and communities in space determines aggregated, landscape level ecosystem stability.
 
-We are also developing [new theory](http://biorxiv.org/content/early/2017/01/04/098384) to explicitly link modern coexistence theory and biodiversity-ecosystem functioning theory.
-Both bodies of work recognize the key role of environmental variability, but how coexistence mechanisms alter the relationship between diversity and stability remains unknown.
+We have also developed [new theory](http://onlinelibrary.wiley.com/doi/10.1111/ele.12793/full) to explicitly link modern coexistence theory and biodiversity-ecosystem functioning theory.
+Both bodies of work recognize the key role of environmental variability, but how coexistence mechanisms alter the relationship between diversity and stability remains unknown (until now).
 
 --------------------------------------------
 
