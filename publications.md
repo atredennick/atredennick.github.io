@@ -5,12 +5,11 @@ title: Publications
 
 [![Google Scholar](./Google_Scholar_logo_2015.jpg)](https://scholar.google.com/citations?user=QGPaeccAAAAJ&hl=en)
 
-<!----
 --------------------------------------------
 
 ### <span style="color:DarkSlateBlue">Preprints</span>
 
----->
+*None available right now...*
 
 
 --------------------------------------------
