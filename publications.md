@@ -5,8 +5,9 @@ title: Publications
 
 [![Google Scholar](./Google_Scholar_logo_2015.jpg)](https://scholar.google.com/citations?user=QGPaeccAAAAJ&hl=en)
 
---------------------------------------------
 <!----
+--------------------------------------------
+
 ### <span style="color:DarkSlateBlue">Preprints</span>
 
 ---->
@@ -47,7 +48,7 @@ Andrew Kulmatiski, Peter Adler, John Stark, and **Andrew Tredennick**
 [Analysis of stable states in global savannas -- a response to Staver and Hansen](http://onlinelibrary.wiley.com/doi/10.1111/geb.12321/full) [[PDF]](../pdfs/Hanan_etal_GEB_2015_Comment_on_Staver-Hansen.pdf)  
 Niall Hanan, **Andrew Tredennick**, Lara Prihodko, Gabriela Bucini, and Justin Dohn
 
-[Effects of tree harvest on the stable-state dynamics of savanna and forest](http://www.jstor.org/stable/10.1086/680475?seq=1#page_scan_tab_contents) [[PDF]](../pdfs/TredennickHanan_AmNat2015.pdf) [[Github repo]](https://github.com/atredennick/HarvestTheory)  
+[Effects of tree harvest on the stable-state dynamics of savanna and forest](http://www.journals.uchicago.edu/doi/full/10.1086/680475) [[PDF]](../pdfs/TredennickHanan_AmNat2015.pdf) [[Github repo]](https://github.com/atredennick/HarvestTheory)  
 **Andrew Tredennick** and Niall Hanan
 
 #### 2014
