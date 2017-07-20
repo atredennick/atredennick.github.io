@@ -1,28 +1,19 @@
-# markdown: kramdown
+# Dependencies
 
-# For related posts
-# lsi: true
-# highlighter: pygments
+# Permalinks
+permalink:        pretty
 
-permalink: pretty
-paginate: 5
-paginate_path: "news/page:num"
+# Setup
+title:            andrew tredennick
+tagline:          'plant population and community ecologist'
+description:      'Population and community ecologist at Utah State University <a href="https://twitter.com/atredennick" target="_blank">@atredennick</a>' 
+url:              http://atredennick.github.io
 
-safe: true
+author:
+  name:           'Andrew Tredennick'
+  url:            https://twitter.com/atredennick
 
-title: The Poisot Lab
-subtitle: Numerical and Computational Ecology
-author: Timothée Poisot
-production_url: http://poisotlab.io
+# paginate:         5
 
-featured_papers:
-    - delm17aen
-    - pois16dup
-    - pois16spn
-    - pois15swe
-    - pois16sdc
-    - pois17hpt
-    - pois17dss
-
-sass:
-    style: compressed
+github:
+  repo:           https://github.com/atredennick/atredennick.github.io
