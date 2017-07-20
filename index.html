@@ -1,0 +1,49 @@
+---
+layout: page
+nav: home
+title: Quantitative ecology
+---
+
+<div class="row">
+
+<div class="left large"> <p class="lead"><b>What makes ecosystems stable, or not, through time?</b>
+<b>How can we best make ecological forecasts?</b>
+I study population dynamics, how species interact in space and time,
+and the consequences of those interactions on ecosystem functioning. 
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="left medium">
+  <h2>News</h2>
+  {% for post in site.posts %}
+    {% if post.layout == "news" %}
+        <span style="display: none">{% increment displayed %}</span>
+        {% if displayed <= 5 %}
+            <p>
+                <a href="{{ post.url }}">{{ post.title }}</a><br />
+                <span class="muted text">{{ post.date | date: '%B %d, %Y' }}</span>
+            </p>
+        {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+<div class="right medium">
+  <h2>Blog</h2>
+  {% for post in site.posts %}
+    {% if post.layout == "post" %}
+        <span style="display: none">{% increment displayed_bl %}</span>
+        {% if displayed_bl <= 5 %}
+            <p>
+                <a href="{{ post.url }}">{{ post.title }}</a><br />
+                <span class="muted text">{{ post.date | date: '%B %d, %Y' }}</span>
+            </p>
+        {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+</div>

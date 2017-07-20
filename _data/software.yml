@@ -1,0 +1,6 @@
+- name: CoexistenceStabilty
+  lang: R
+  description: Simulations of how coexistence shapes the diversity-stability relationship
+  github: https://github.com/atredennick/Coexistence-Stability
+  doc: https://github.com/atredennick/Coexistence-Stability
+  doi: 10.6084/m9.figshare.4985567.v1

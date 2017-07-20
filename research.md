@@ -1,35 +1,59 @@
 ---
 layout: page
 title: Research
+nav: research
 ---
 
-**What makes populations, communities, and ecosystems fluctuate in time and space? Why are some communities more stable than others? Given the inherently variability of ecological systems, how can we best forecast future states at spatial scales relevant to land managers?** These questions form the core of my research program, and I strive to answer them by bringing together dynamic statistical models and data. A major theme throughout my research is the concept that ecosystem functioning can ultimately be understood through the lens of population dynamics (e.g., [Michel Loreau's great book, 'From Populations to Ecosystems'](http://press.princeton.edu/titles/9238.html)). So, I use dynamic population models and long term datasets to understand what makes communities and ecosystems stable, or not. The overarching goal of my research is to understand the **<span style="color:DarkSlateBlue">causes and consequences of biodiversity</span>**.
+# Spatial ecology of species interactions
 
---------------------------------------------
+Why is there variation in the way species interact over space or time? We
+analyse spatially and temporally replicated datasets of surveys of species
+interactions to measure the variation in the structure of ecological networks,
+and describe its dynamics. This research reveals an important aspect of the
+dissimilarity of ecological communities: the same species can interact in
+different ways. This opens a lot of stimulating questions. Do species and
+interactions respond to the same environmental cues and variables? Which
+are more informative? What is the spatial scale at which variations ceases
+to matter? How much of this variation is random?
 
-### The Drivers of Ecosystem Stability
+# Synthetic datasets and open ecological data
 
-Ecosystems are hierarchical: *individuals* within *populations* within *communities* within *metacommunities* within... You get the idea. 
-The dynamics within each hierarchical level help to determine the stability of ecosystem functioning through time and over space.
-Our work seeks to understand the processes the determine stability at multiple spatial scales.
-At the local, community level, we use multi-species population models fit to long term demographic data to decipher how environmental stochasticity, demographic stochasticity, and interspecific interactions combine to [determine the degree of synchrony](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1757/full).
+We believe that open data are a treasure trove of knowledge that has
+not been entirely used yet. We are working on understanding the type of
+problems that we can solve without having to do new sampling, and how to
+handle errors and uncertainty. As a bonus, we use the tools we develop to
+improve the monitoring and reporting abilities of various stakeholders. One
+of our key question related to this topic at the moment is to examine the
+"suitability" of existing data to address a given question. We work on
+measures to identify areas in which information is low, which should be
+sampled with a higher priority.
 
-Looking across spatial scales, I am collaborating with [Kevin Wilcox](http://kevinwilcox.weebly.com/), [Sally Koerner](http://sallykoerner.weebly.com/), [Emily Grman](http://www.emich.edu/biology/faculty/grman.php), and [Lauren Hallet](http://laurenmh.github.io/) on an empirical test of theory on the [drivers of ecosystem stability in space](http://onlinelibrary.wiley.com/doi/10.1111/ele.12292/abstract).
-We are using data from aound the globe to identify how asynchrony among species through time and communities in space determines aggregated, landscape level ecosystem stability.
+# Predictive approaches of network structure
 
-We have also developed [new theory](http://onlinelibrary.wiley.com/doi/10.1111/ele.12793/full) to explicitly link modern coexistence theory and biodiversity-ecosystem functioning theory.
-Both bodies of work recognize the key role of environmental variability, but how coexistence mechanisms alter the relationship between diversity and stability remains unknown (until now).
+Can we predict inter-specific interactions? We are interested in developing
+predictive models that would use different sources of information (functional
+traits, local abundances, previous knowledge, ...) to predict the probability
+that two species will interact. These models are required to forecast the
+structure of novel communities that will emerge through global changes. They
+also require to develop new tools to merge data, and improved statistical
+models to fill in the gaps between the different datasets.
 
---------------------------------------------
+# Numerical toolkits for network analysis
 
-### Ecological Forecasting
+Addressing these new questions often requires to develop new tools. We develop
+statistical and mathematical approaches, implement them, and release them as
+free and open source software to make network analysis user-friendly. We
+also contribute to the [mangal.io](http://mangal.io) project, an open
+database of species interactions and associated packages. We think a lot
+about what the best practices for scientific software should be, and do a
+lot of training. We sincerely believe that good science requires good tools,
+and we want to help everyone build and use them.
 
-A major challenge facing ecology in the 21st century is predicting the consequences of climate change. To meet this challenge, we have developed a [new approach](../pdfs/Tredennick_etal_Ecosphere_2016.pdf) to make population forecasts at the landscape scale using remotely-sensed time series of plant abundance. We are also interested [testing different approaches for making population forecasts](../pdfs/Tredennick_etal_MEE_2017.pdf) at spatial scales beyond the traditional field study plot. We are particularly interested in understanding the limits to ecological forecasts in time and space, and discovering if those limits can be overcome. We do this by partitioning forecast uncertainty to identify the sources of uncertainty and how those increase (or decrease) over time.
+# Functional consequences of network structure
 
---------------------------------------------
-
-### Tree Harvest and Alternative Stable States in Africa
-
-My PhD work focused on the sustainability and biome-level impacts of tree harvest for fuelwood in sub-Saharan Africa.
-Our work on the sustainability of tree harvest across Africa is still in the works, but we have used theory to show how [tree harvest effects stable state dynamics between forest and savanna](../pdfs/TredennickHanan_AmNat2015.pdf).
-My collaborators and I are also [actively engaged](../pdfs/Hanan_etal_2014_GEB.pdf) in research on detecting and delimiting hypothesized alternate stable states in Africa.
+We are interested in turning the structure of networks into a predictive
+variable for community ecology. We are particularly interested in the
+relationship between network structure and ecosystem functioning, but also
+work on landscape connectivity, and the transmission of both ideas and
+diseases. Our flagship project on this theme is to develop networks of
+habitats patches, to help populations move across highly fragmented areas.
