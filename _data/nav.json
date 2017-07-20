@@ -1,0 +1,34 @@
+[
+    {
+        "url": "/",
+        "name": "home",
+        "label": "Home",
+        "i": "fa-home",
+        "full": true
+    },
+    {
+        "url": "/people/",
+        "name": "people",
+        "label": "People",
+        "i": "fa-users"
+    },
+    {
+        "url": "/research/",
+        "name": "research",
+        "label": "Research",
+        "i": "fa-graduation-cap"
+    },
+    {
+        "url": "/papers/",
+        "name": "papers",
+        "label": "Publications",
+        "i": "fa-file-text"
+    },
+    {
+        "url": "/software/",
+        "name": "software",
+        "label": "Code",
+        "i": "fa-code"
+    }
+]
+
