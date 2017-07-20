@@ -49,22 +49,7 @@ and the consequences of those interactions on ecosystem functioning.
 </div>
 
 <div class="row">
-<div class="right medium">
- <!--- <h2>Blog</h2> ---->
-  {% for post in site.posts %}
-    {% if post.layout == "post" %}
-        <span style="display: none">{% increment displayed_bl %}</span>
-        {% if displayed_bl <= 5 %}
-            <p>
-                <a href="{{ post.url }}">{{ post.title }}</a><br />
-                <span class="muted text">{{ post.date | date: '%B %d, %Y' }}</span>
-            </p>
-        {% endif %}
-    {% endif %}
-  {% endfor %}
-</div>
 
-<div class="right medium"> <p>Like this website? Design by Tim Poisot (<a href="https://github.com/PoisotLab/poisotlab.github.io">Github repo</a>).</p>
-</div>
+<div class="right medium"> <p class="foot">Like this website? Design by Tim Poisot (<a href="https://github.com/PoisotLab/poisotlab.github.io">Github repo</a>). </div>
 
 </div>
