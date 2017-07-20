@@ -10,10 +10,10 @@ paginate_path: "news/page:num"
 
 safe: true
 
-title: The Poisot Lab
-subtitle: Numerical and Computational Ecology
-author: Timothée Poisot
-production_url: http://poisotlab.io
+title: Andrew Tredennick
+subtitle: Quantitative Ecology
+author: Andrew Tredennick
+production_url: http://atredennick.github.io
 
 featured_papers:
     - delm17aen
