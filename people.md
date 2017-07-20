@@ -8,6 +8,7 @@ nav: people
 {% include people.html %}{% endif %}
 {% endfor %}
 
+<!---
 # Current lab members
 
 {% for p in site.data.people %}{% if p.current %}
@@ -24,3 +25,4 @@ nav: people
 [dom]: http://chaire-eec.uqar.ca/
 [skemb]: http://phylodiversity.net/skembel/index.html
 [stouffer]: http://stoufferlab.org/
+--->
