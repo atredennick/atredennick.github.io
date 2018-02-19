@@ -15,7 +15,7 @@
 {% endif %}
 
 <!-- Journal name -->
-{% if p.container-title %}<span class="authors">{{ p.container-title | italicize }}</span>{% endif %}
+{% if p.container-title %}<span class="authors"><i>{{ p.container-title | italicize }}</i></span>{% endif %}
 
 <!-- Date of publication -->
 {% if p.issued %}<span class="entryDate">{{ p.issued.date-parts[0][0] | inspect }}</span>{% endif %}
