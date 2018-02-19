@@ -16,13 +16,8 @@ author: Andrew Tredennick
 production_url: http://atredennick.github.io
 
 featured_papers:
-    - delm17aen
-    - pois16dup
-    - pois16spn
-    - pois15swe
-    - pois16sdc
-    - pois17hpt
-    - pois17dss
+    - Deitze2018
+    - Tredennick2017b
 
 sass:
     style: compressed
