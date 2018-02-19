@@ -10,9 +10,12 @@
 <!-- List of authors -->
 {% if p.author %}
 <div class="authors">
-    {% for a in p.author %}{% if forloop.first %}{%else%}{% if forloop.last %}, and {%else%}, {% endif %}{%endif%}<span class="name{% if a.family == 'Poisot' %} pi{% endif%}">{%if a.family %}{{a.family | capitalize}}{% endif %}</span>{% endfor %}
+    {% for a in p.author %}{% if forloop.first %}{%else%}{% if forloop.last %}, and {%else%}, {% endif %}{%endif%}<span class="name{% if a.family == 'Tredennick' %} pi{% endif%}">{%if a.family %}{{a.family | capitalize}}{% endif %}</span>{% endfor %}
 </div>
 {% endif %}
+
+<!-- Journal name -->
+{% if p.container-title %}<span class="entryDate">{{ p.container-title | inspect }}</span>{% endif %}
 
 <!-- Date of publication -->
 {% if p.issued %}<span class="entryDate">{{ p.issued.date-parts[0][0] | inspect }}</span>{% endif %}
