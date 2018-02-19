@@ -18,7 +18,7 @@
 {% if p.container-title %}<span class="authors"><i>{{ p.container-title | italicize }}</i></span>{% endif %}
 
 <!-- Date of publication -->
-{% if p.issued %}<span class="entryDate">{{ p.issued.date-parts[0][0] | inspect }}</span>{% endif %}
+{% if p.issued %}<span class="entryDate">{{ (p.issued.date-parts[0][0]) | inspect }}</span>{% endif %}
 
 </div>
 
