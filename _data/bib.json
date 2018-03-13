@@ -1,4 +1,41 @@
 [
+{
+    "DOI": "10.7717/peerj.4485",
+    "ISSN": "2167-8359",
+    "URL": "https://peerj.com/articles/4485",
+    "author": [
+      {
+        "family": "Tredennick",
+        "given": "Andrew T."
+      },
+      {
+        "family": "Kleinhesselink",
+        "given": "Andrew R."
+      },
+      {
+        "family": "Taylor",
+        "given": "J. Bret"
+      },
+      {
+        "family": "Adler",
+        "given": "Peter B."
+      }
+    ],
+    "container-title": "PeerJ",
+    "id": "Tredennick2018PeerJ",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          3
+        ]
+      ]
+    },
+    "page": "e4485",
+    "title": "<span class=\"nocase\">Ecosystem functional response across precipitation extremes in a sagebrush steppe</span>",
+    "type": "article-journal",
+    "volume": "6"
+  },
   {
     "DOI": "10.1126/science.aad6236",
     "ISBN": "9788578110796",
