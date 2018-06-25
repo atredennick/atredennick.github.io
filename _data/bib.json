@@ -1,5 +1,437 @@
 [
   {
+    "DOI": "10.1111/ele.13098",
+    "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13098",
+    "abstract": "Theory predicts that intraspecific competition should be stronger than interspecific competition for any pair of stably coexisting species, yet previous literature reviews found little support for this pattern. We screened over 5400 publications and identified 39 studies that quantified phenomenological intraspecific and interspecific interactions in terrestrial plant communities. Of the 67% of species pairs in which both intra‐ and interspecific effects were negative (competitive), intraspecific competition was, on average, four to five‐fold stronger than interspecific competition. Of the remaining pairs, 93% featured intraspecific competition and interspecific facilitation, a situation that stabilises coexistence. The difference between intra‐ and interspecific effects tended to be larger in observational than experimental data sets, in field than greenhouse studies, and in studies that quantified population growth over the full life cycle rather than single fitness components. Our results imply that processes promoting stable coexistence at local scales are common and consequential across terrestrial plant communities.",
+    "author": [
+      {
+        "family": "Adler",
+        "given": "P.B."
+      },
+      {
+        "family": "Smull",
+        "given": "Danielle"
+      },
+      {
+        "family": "Beard",
+        "given": "Karen H"
+      },
+      {
+        "family": "Choi",
+        "given": "Ryan T"
+      },
+      {
+        "family": "Furniss",
+        "given": "Tucker"
+      },
+      {
+        "family": "Kulmatiski",
+        "given": "Andrew"
+      },
+      {
+        "family": "Meiners",
+        "given": "Joan M"
+      },
+      {
+        "family": "Tredennick",
+        "given": "Andrew T."
+      },
+      {
+        "family": "Veblen",
+        "given": "Kari E"
+      }
+    ],
+    "container-title": "Ecology Letters",
+    "id": "Adler2018ELE",
+    "issue": "0",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "keyword": "Biodiversity,Lotka–Volterra,competition coefficient,forests,grasslands,meta‐analysis",
+    "title": "<span class=\"nocase\">Competition and coexistence in plant communities: intraspecific competition is stronger than interspecific competition</span>",
+    "type": "article-journal",
+    "volume": "0"
+  },
+  {
+    "DOI": "10.1073/pnas.1710231115",
+    "ISSN": "0027-8424",
+    "URL": "http://www.pnas.org/content/115/7/1424",
+    "author": [
+      {
+        "family": "Dietze",
+        "given": "Michael C."
+      },
+      {
+        "family": "Fox",
+        "given": "Andrew"
+      },
+      {
+        "family": "Beck-Johnson",
+        "given": "Lindsay M."
+      },
+      {
+        "family": "Betancourt",
+        "given": "Julio L."
+      },
+      {
+        "family": "Hooten",
+        "given": "Mevin B."
+      },
+      {
+        "family": "Jarnevich",
+        "given": "Catherine S."
+      },
+      {
+        "family": "Keitt",
+        "given": "Timothy H."
+      },
+      {
+        "family": "Kenney",
+        "given": "Melissa A."
+      },
+      {
+        "family": "Laney",
+        "given": "Christine M."
+      },
+      {
+        "family": "Larsen",
+        "given": "Laurel G."
+      },
+      {
+        "family": "Loescher",
+        "given": "Henry W."
+      },
+      {
+        "family": "Lunch",
+        "given": "Claire K."
+      },
+      {
+        "family": "Pijanowski",
+        "given": "Bryan C."
+      },
+      {
+        "family": "Randerson",
+        "given": "James T."
+      },
+      {
+        "family": "Read",
+        "given": "Emily K."
+      },
+      {
+        "family": "Tredennick",
+        "given": "Andrew T."
+      },
+      {
+        "family": "Vargas",
+        "given": "Rodrigo"
+      },
+      {
+        "family": "Weathers",
+        "given": "Kathleen C."
+      },
+      {
+        "family": "White",
+        "given": "Ethan P."
+      }
+    ],
+    "container-title": "Proceedings of the National Academy of Sciences",
+    "id": "Dietze2018",
+    "issue": "7",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "1424-1432",
+    "title": "<span class=\"nocase\">Iterative near-term ecological forecasting: Needs, opportunities, and challenges</span>",
+    "type": "article-journal",
+    "volume": "115"
+  },
+  {
+    "DOI": "10.1111/geb.12321",
+    "ISBN": "1466-8238",
+    "ISSN": "1466822X",
+    "URL": "http://doi.wiley.com/10.1111/geb.12285{\\%}5Cnhttp://doi.wiley.com/10.1111/geb.12321",
+    "abstract": "Staver & Hansen (2015, Global Ecology and Biogeography, doi: 10.1111/geb.12285) comment on our recent paper (Hanan et al., Global Ecology and Biogeography, 2014, 23, 259–263) in which we argue that classification and regression tree methods used with remote sensing data to predict tree cover may bias inference of bifurcations in savanna vegetation communities. While we agree with several of their comments, we remain unconvinced that a remote sensing product based on an inherently discontinuous statistical approach can, or should, be used to test for discontinuities.",
+    "author": [
+      {
+        "family": "Hanan",
+        "given": "N. P."
+      },
+      {
+        "family": "Tredennick",
+        "given": "A. T."
+      },
+      {
+        "family": "Prihodko",
+        "given": "L."
+      },
+      {
+        "family": "Bucini",
+        "given": "G."
+      },
+      {
+        "family": "Dohn",
+        "given": "J."
+      }
+    ],
+    "container-title": "Global Ecology and Biogeography",
+    "id": "Hanan2015a",
+    "issue": "8",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "keyword": "alternative stable states,distribution,forest,frequency,modis vcf,remote sensing,savanna,tree cover",
+    "page": "988-989",
+    "title": "<span class=\"nocase\">Analysis of stable states in global savannas - a response to Staver and Hansen</span>",
+    "type": "article-journal",
+    "volume": "24"
+  },
+  {
+    "DOI": "10.1002/ecy.1757",
+    "ISBN": "4955139574",
+    "ISSN": "00129658",
+    "abstract": "Introduction: D-dimer assay, generally evaluated according to cutoff points calibrated for VTE exclusion, is used to estimate the individual risk of recurrence after a first idiopathic event of venous thromboembolism (VTE). Methods: Commercial D-dimer assays, evaluated according to predetermined cutoff levels for each assay, specific for age (lower in subjects \\<70 years) and gender (lower in males), were used in the recent DULCIS study. The present analysis compared the results obtained in the DULCIS with those that might have been had using the following different cutoff criteria: traditional cutoff for VTE exclusion, higher levels in subjects aged ≥60 years, or age multiplied by 10. Results: In young subjects, the DULCIS low cutoff levels resulted in half the recurrent events that would have occurred using the other criteria. In elderly patients, the DULCIS results were similar to those calculated for the two age-adjusted criteria. The adoption of traditional VTE exclusion criteria would have led to positive results in the large majority of elderly subjects, without a significant reduction in the rate of recurrent event. Conclusion: The results confirm the usefulness of the cutoff levels used in DULCIS.",
+    "author": [
+      {
+        "family": "Tredennick",
+        "given": "Andrew T."
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Mazancourt",
+        "given": "Claire"
+      },
+      {
+        "family": "Loreau",
+        "given": "Michel"
+      },
+      {
+        "family": "Adler",
+        "given": "Peter B."
+      }
+    ],
+    "container-title": "Ecology",
+    "id": "Tredennick2017",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "keyword": "compensatory dynamics,demographic stochasticity,environmental stochasticity,grassland,interspecific competition,stability,synchrony",
+    "page": "971-981",
+    "title": "<span class=\"nocase\">Environmental responses, not species interactions, determine synchrony of dominant species in semiarid grasslands</span>",
+    "type": "article-journal",
+    "volume": "98"
+  },
+  {
+    "DOI": "10.1002/ecs2.1738",
+    "ISSN": "21508925",
+    "abstract": "Plant uptake of soil water and nitrogen can determine plant growth, community composition, and ecosystem functioning. Despite its improtance, resource uptake is typically inferred from root biomass distributions rather than measured directly. Using a depth-controlled, dual-tracer experiment, here we show that during peak growing season in a sagebrush-steppe ecosystem, vertical patterns of root biomass, water uptake, and nitrogen uptake are strikingly different from one another. Half of toor biomass (0-188 cm) occured in the top 24 cm of the soil. Half of water uptake occured in the top 14 cm. Half of nitrogen uptake occured in the top 79 cm. Shallow water uptake and deep nitrogen uptake were better correlated with water and nitrogen availability than with root biomass, suggesting that root systems foraged independently for different resources. Root biomass has long been used as a proxy measure of plant access to soil resources, but our results suggest that resource availability may be a better predictor of uptake.",
+    "author": [
+      {
+        "family": "Kulmatiski",
+        "given": "Andrew"
+      },
+      {
+        "family": "Adler",
+        "given": "Peter B."
+      },
+      {
+        "family": "Stark",
+        "given": "John M."
+      },
+      {
+        "family": "Tredennick",
+        "given": "Andrew T."
+      }
+    ],
+    "container-title": "Ecosphere",
+    "id": "Kulmatiski2017",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "keyword": "Ecohydrology,Isotope,Niche partitioning,Nitrogen uptake,Root profile,Sagebrush,Tracer,Two-layer hypothesis,Water-use",
+    "title": "<span class=\"nocase\">Water and nitrogen uptake are better associated with resource availability than root biomass</span>",
+    "type": "article-journal",
+    "volume": "8"
+  },
+  {
+    "DOI": "10.1111/ele.12793",
+    "ISSN": "14610248",
+    "abstract": "Theory relating species richness to ecosystem variability typically ignores the potential for environmental variability to promote species coexistence. Failure to account for fluctuation-dependent coexistence mechanisms may explain observed deviations from the expected negative diversity-variability relationship, and limits our ability to predict the consequences of future increases in environmental variability. We use a consumer-resource model to explore how coexistence via the temporal storage effect and relative nonlinearity affects ecosystem variability. We show that a positive, rather than negative, diversity-variability relationship is possible when ecosystem function is sampled across a natural gradient in environmental variability and diversity. We also show how fluctuation-dependent coexistence can buffer ecosystem functioning against increasing environmental variability by promoting species richness and portfolio effects. Our work provides a general explanation for variation in observed diversity-variability relationships and highlights the importance of conserving regional species pools to help buffer ecosystems against predicted increases in environmental variability.",
+    "author": [
+      {
+        "family": "Tredennick",
+        "given": "Andrew T."
+      },
+      {
+        "family": "Adler",
+        "given": "Peter B."
+      },
+      {
+        "family": "Adler",
+        "given": "Frederick R."
+      }
+    ],
+    "container-title": "Ecology Letters",
+    "id": "Tredennick2017b",
+    "issue": "8",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "keyword": "Coexistence,Consumer-resource dynamics,Diversity-stability hypothesis,Pulsed differential equation,Relative nonlinearity,Storage effect",
+    "page": "958-968",
+    "title": "<span class=\"nocase\">The relationship between species richness and ecosystem variability is shaped by the mechanism of coexistence</span>",
+    "type": "article-journal",
+    "volume": "20"
+  },
+  {
+    "DOI": "10.1086/680475",
+    "ISBN": "0003-0147",
+    "ISSN": "1537-5323",
+    "PMID": "25905514",
+    "URL": "http://www.ncbi.nlm.nih.gov/pubmed/25905514",
+    "abstract": "Contemporary theory on the maintenance and stability of the savanna biome has focused extensively on how climate and disturbances interact to affect tree growth and demography. In particular, the role of fire in reducing tree cover from climatic maxima is now well appreciated, and in certain cases, herbivory also strongly affects tree cover. However, in African savannas and forests, harvest of trees by humans for cooking and heating is an oft overlooked disturbance. Thus, we incorporate tree harvest into a population dynamic model of grasses, savanna saplings, savanna trees, and forest trees. We use assumptions about the differential demographic responses of savanna trees and forest trees to harvest to show how tree harvest influences tree cover, demography, and community composition. Tree harvest can erode the intrinsic basin of attraction for forest and make a state transition via fire to savanna more likely. The savanna state is generally resilient to all but high levels of tree harvest because of the resprouting abilities of savanna trees. In the absence of active fire suppression, our analysis suggests that we can expect to see large and potentially irreversible shifts from forest to savanna as demand increases for charcoal in sub-Saharan Africa. On the other hand, savanna tree species’ traits promote savanna stability in the face of low to moderate harvest pressure.",
+    "author": [
+      {
+        "family": "Tredennick",
+        "given": "Andrew T"
+      },
+      {
+        "family": "Hanan",
+        "given": "Niall P"
+      }
+    ],
+    "container-title": "The American Naturalist",
+    "id": "Tredennick2015b",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "keyword": "alternative stable states,fi re,forest,savanna,tree harvest",
+    "page": "E153-65",
+    "title": "<span class=\"nocase\">Effects of tree harvest on the stable-state dynamics of savanna and forest.</span>",
+    "type": "article-journal",
+    "volume": "185"
+  },
+  {
+    "DOI": "10.1111/aje.12238",
+    "ISBN": "0141-6707",
+    "ISSN": "13652028",
+    "abstract": "Theory and empirical evidence for the impacts of fire and herbivory in savannahs is well established – they are top-down disturbances that maintain savannahs in disequilibrium states away from potential tree cover. In African savannahs, the demand for fuelwood is extremely high, so tree harvest likely also has an impact, both directly and indirectly, on tree cover, density and biomass. Many savannah trees resprout vigorously from the base after harvest. However, harvested trees regenerate as saplings susceptible to fire and browsing, so harvest may have important demographic consequences. Here, we report the effects of tree harvest, and its interaction with fire and herbivory, on savannah dynamics by analysing woody regrowth following a harvest in arid Sahelian and mesic Guinean savannahs in Mali, West Africa. Tree harvest resulted in an overall reduction in wood production per tree compared to growth in nonharvested trees. Regrowth, either biomass or height, did not differ among fire and herbivory treatments. Our results suggest that the resprouting abilities that savannah trees have evolved to cope with frequent fire are essential for surviving tree harvest and subsequent disturbance. In these savannahs, regrowth is rapid enough in the first growing season to escape the impact of dry season fires.",
+    "author": [
+      {
+        "family": "Tredennick",
+        "given": "Andrew T."
+      },
+      {
+        "family": "Karembé",
+        "given": "Moussa"
+      },
+      {
+        "family": "Dembélé",
+        "given": "Fadiala"
+      },
+      {
+        "family": "Dohn",
+        "given": "Justin"
+      },
+      {
+        "family": "Hanan",
+        "given": "Niall P."
+      }
+    ],
+    "container-title": "African Journal of Ecology",
+    "id": "Tredennick2015a",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "keyword": "Fire,Herbivory,Mali,Savannah,Tree harvest,West Africa",
+    "page": "487-495",
+    "title": "<span class=\"nocase\">No effects of fire, large herbivores and their interaction on regrowth of harvested trees in two West African savannahs</span>",
+    "type": "article-journal",
+    "volume": "53"
+  },
+  {
+    "DOI": "10.1002/ecs2.1525",
+    "ISSN": "2150-8925",
+    "URL": "http://dx.doi.org/10.1002/ecs2.1525",
+    "annote": "e01525",
+    "author": [
+      {
+        "family": "Tredennick",
+        "given": "Andrew T."
+      },
+      {
+        "family": "Hooten",
+        "given": "Mevin B."
+      },
+      {
+        "family": "Aldridge",
+        "given": "Cameron L."
+      },
+      {
+        "family": "Homer",
+        "given": "Collin G."
+      },
+      {
+        "family": "Kleinhesselink",
+        "given": "Andrew R."
+      },
+      {
+        "family": "Adler",
+        "given": "Peter B."
+      }
+    ],
+    "container-title": "Ecosphere",
+    "id": "Tredennick2016Ecos",
+    "issue": "10",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "keyword": "Artemisia,climate change,dimension reduction,forecasting,population model,remote sensing,sagebrush,spatiotemporal model",
+    "page": "e01525",
+    "title": "<span class=\"nocase\">Forecasting climate change impacts on plant populations over large spatial extents</span>",
+    "type": "article-journal",
+    "volume": "7"
+  },
+  {
     "DOI": "10.1111/ele.12861",
     "ISSN": "1461-0248",
     "URL": "http://dx.doi.org/10.1111/ele.12861",
@@ -199,91 +631,36 @@
     "volume": "20"
   },
   {
-    "DOI": "10.1002/ecs2.1525",
-    "ISSN": "2150-8925",
-    "URL": "http://dx.doi.org/10.1002/ecs2.1525",
-    "annote": "e01525",
+    "ISSN": "02775786",
+    "abstract": "The Shoshone National Forest (Shoshone) covers 2.4 million acres of mountainous topography in northwest Wyoming and is a vital ecosystem that provides clean water, wildlife habitat, timber, grazing, recreational opportunities, and aesthetic value. The Shoshone has experienced and adapted to changes in climate for many millennia, and is currently experiencing a warming trend that is expected to accelerate in the next century. Climate change directly and indirectly affects the Shoshone’s high-elevation, mountainous terrain that supports unique and sometimes rare ecological components. Several vulnerable and very responsive resources and processes on the Shoshone could interact to produce unforeseeable or undesirable ecosystem changes, highlighting the need to identify potential resource vulnerabilities and develop adaptation pathways and flexibility in resource management options. The objective of this report is to synthesize the current understanding of the paleo and historical climate of the Shoshone as a reference point, determine what future climates may look like, and what the effects of future climate may be on natural resources. This information allows for the identification of vulnerabilities and information gaps, thereby aiding the development of adaptation tools and strategies.",
     "author": [
       {
+        "family": "Rice",
+        "given": "Janine"
+      },
+      {
         "family": "Tredennick",
-        "given": "Andrew T."
+        "given": "Andrew"
       },
       {
-        "family": "Hooten",
-        "given": "Mevin B."
-      },
-      {
-        "family": "Aldridge",
-        "given": "Cameron L."
-      },
-      {
-        "family": "Homer",
-        "given": "Collin G."
-      },
-      {
-        "family": "Kleinhesselink",
-        "given": "Andrew R."
-      },
-      {
-        "family": "Adler",
-        "given": "Peter B."
+        "family": "Joyce",
+        "given": "Linda A"
       }
     ],
-    "container-title": "Ecosphere",
-    "id": "Tredennick2016Ecos",
-    "issue": "10",
+    "container-title": "General Technical Report RMRS-GTR-264",
+    "id": "Rice2012",
+    "issue": "January",
     "issued": {
       "date-parts": [
         [
-          2016
+          2012
         ]
       ]
     },
-    "keyword": "Artemisia,climate change,dimension reduction,forecasting,population model,remote sensing,sagebrush,spatiotemporal model",
-    "page": "e01525",
-    "title": "<span class=\"nocase\">Forecasting climate change impacts on plant populations over large spatial extents</span>",
-    "type": "article-journal",
-    "volume": "7"
-  },
-  {
-    "DOI": "10.1002/ecy.1757",
-    "ISBN": "4955139574",
-    "ISSN": "00129658",
-    "abstract": "Introduction: D-dimer assay, generally evaluated according to cutoff points calibrated for VTE exclusion, is used to estimate the individual risk of recurrence after a first idiopathic event of venous thromboembolism (VTE). Methods: Commercial D-dimer assays, evaluated according to predetermined cutoff levels for each assay, specific for age (lower in subjects \\<70 years) and gender (lower in males), were used in the recent DULCIS study. The present analysis compared the results obtained in the DULCIS with those that might have been had using the following different cutoff criteria: traditional cutoff for VTE exclusion, higher levels in subjects aged ≥60 years, or age multiplied by 10. Results: In young subjects, the DULCIS low cutoff levels resulted in half the recurrent events that would have occurred using the other criteria. In elderly patients, the DULCIS results were similar to those calculated for the two age-adjusted criteria. The adoption of traditional VTE exclusion criteria would have led to positive results in the large majority of elderly subjects, without a significant reduction in the rate of recurrent event. Conclusion: The results confirm the usefulness of the cutoff levels used in DULCIS.",
-    "author": [
-      {
-        "family": "Tredennick",
-        "given": "Andrew T."
-      },
-      {
-        "dropping-particle": "de",
-        "family": "Mazancourt",
-        "given": "Claire"
-      },
-      {
-        "family": "Loreau",
-        "given": "Michel"
-      },
-      {
-        "family": "Adler",
-        "given": "Peter B."
-      }
-    ],
-    "container-title": "Ecology",
-    "id": "Tredennick2017",
-    "issue": "4",
-    "issued": {
-      "date-parts": [
-        [
-          2017
-        ]
-      ]
-    },
-    "keyword": "compensatory dynamics,demographic stochasticity,environmental stochasticity,grassland,interspecific competition,stability,synchrony",
-    "page": "971-981",
-    "title": "<span class=\"nocase\">Environmental responses, not species interactions, determine synchrony of dominant species in semiarid grasslands</span>",
-    "type": "article-journal",
-    "volume": "98"
+    "keyword": "Rocky Mountains,West,climate change,forest,natural systems,projections",
+    "page": "60",
+    "title": "<span class=\"nocase\">Climate Change on the Shoshone National Forest, Wyoming: A Synthesis of Past Climate, Climate Projections, and Ecosystem Implications</span>",
+    "type": "article-journal"
   },
   {
     "DOI": "10.1371/journal.pone.0058241",
@@ -379,260 +756,6 @@
     "volume": "107"
   },
   {
-    "DOI": "10.1111/geb.12122",
-    "ISSN": "1466822X",
-    "URL": "http://doi.wiley.com/10.1111/geb.12122",
-    "author": [
-      {
-        "family": "Hanan",
-        "given": "Niall P."
-      },
-      {
-        "family": "Tredennick",
-        "given": "Andrew T."
-      },
-      {
-        "family": "Prihodko",
-        "given": "Lara"
-      },
-      {
-        "family": "Bucini",
-        "given": "Gabriela"
-      },
-      {
-        "family": "Dohn",
-        "given": "Justin"
-      }
-    ],
-    "container-title": "Global Ecology and Biogeography",
-    "id": "Hanan2014",
-    "issue": "3",
-    "issued": {
-      "date-parts": [
-        [
-          2014,
-          3
-        ]
-      ]
-    },
-    "keyword": "alternate stable states,remote sensing,savanna,tree cover,tree-grass",
-    "page": "259-263",
-    "title": "<span class=\"nocase\">Analysis of stable states in global savannas: is the CART pulling the horse?</span>",
-    "type": "article-journal",
-    "volume": "23"
-  },
-  {
-    "DOI": "10.1111/geb.12321",
-    "ISBN": "1466-8238",
-    "ISSN": "1466822X",
-    "URL": "http://doi.wiley.com/10.1111/geb.12285{\\%}5Cnhttp://doi.wiley.com/10.1111/geb.12321",
-    "abstract": "Staver & Hansen (2015, Global Ecology and Biogeography, doi: 10.1111/geb.12285) comment on our recent paper (Hanan et al., Global Ecology and Biogeography, 2014, 23, 259–263) in which we argue that classification and regression tree methods used with remote sensing data to predict tree cover may bias inference of bifurcations in savanna vegetation communities. While we agree with several of their comments, we remain unconvinced that a remote sensing product based on an inherently discontinuous statistical approach can, or should, be used to test for discontinuities.",
-    "author": [
-      {
-        "family": "Hanan",
-        "given": "N. P."
-      },
-      {
-        "family": "Tredennick",
-        "given": "A. T."
-      },
-      {
-        "family": "Prihodko",
-        "given": "L."
-      },
-      {
-        "family": "Bucini",
-        "given": "G."
-      },
-      {
-        "family": "Dohn",
-        "given": "J."
-      }
-    ],
-    "container-title": "Global Ecology and Biogeography",
-    "id": "Hanan2015a",
-    "issue": "8",
-    "issued": {
-      "date-parts": [
-        [
-          2015
-        ]
-      ]
-    },
-    "keyword": "alternative stable states,distribution,forest,frequency,modis vcf,remote sensing,savanna,tree cover",
-    "page": "988-989",
-    "title": "<span class=\"nocase\">Analysis of stable states in global savannas - a response to Staver and Hansen</span>",
-    "type": "article-journal",
-    "volume": "24"
-  },
-  {
-    "DOI": "10.1002/ecs2.1738",
-    "ISSN": "21508925",
-    "abstract": "Plant uptake of soil water and nitrogen can determine plant growth, community composition, and ecosystem functioning. Despite its improtance, resource uptake is typically inferred from root biomass distributions rather than measured directly. Using a depth-controlled, dual-tracer experiment, here we show that during peak growing season in a sagebrush-steppe ecosystem, vertical patterns of root biomass, water uptake, and nitrogen uptake are strikingly different from one another. Half of toor biomass (0-188 cm) occured in the top 24 cm of the soil. Half of water uptake occured in the top 14 cm. Half of nitrogen uptake occured in the top 79 cm. Shallow water uptake and deep nitrogen uptake were better correlated with water and nitrogen availability than with root biomass, suggesting that root systems foraged independently for different resources. Root biomass has long been used as a proxy measure of plant access to soil resources, but our results suggest that resource availability may be a better predictor of uptake.",
-    "author": [
-      {
-        "family": "Kulmatiski",
-        "given": "Andrew"
-      },
-      {
-        "family": "Adler",
-        "given": "Peter B."
-      },
-      {
-        "family": "Stark",
-        "given": "John M."
-      },
-      {
-        "family": "Tredennick",
-        "given": "Andrew T."
-      }
-    ],
-    "container-title": "Ecosphere",
-    "id": "Kulmatiski2017",
-    "issue": "3",
-    "issued": {
-      "date-parts": [
-        [
-          2017
-        ]
-      ]
-    },
-    "keyword": "Ecohydrology,Isotope,Niche partitioning,Nitrogen uptake,Root profile,Sagebrush,Tracer,Two-layer hypothesis,Water-use",
-    "title": "<span class=\"nocase\">Water and nitrogen uptake are better associated with resource availability than root biomass</span>",
-    "type": "article-journal",
-    "volume": "8"
-  },
-  {
-    "DOI": "10.1073/pnas.1710231115",
-    "ISSN": "0027-8424",
-    "URL": "http://www.pnas.org/content/115/7/1424",
-    "author": [
-      {
-        "family": "Dietze",
-        "given": "Michael C."
-      },
-      {
-        "family": "Fox",
-        "given": "Andrew"
-      },
-      {
-        "family": "Beck-Johnson",
-        "given": "Lindsay M."
-      },
-      {
-        "family": "Betancourt",
-        "given": "Julio L."
-      },
-      {
-        "family": "Hooten",
-        "given": "Mevin B."
-      },
-      {
-        "family": "Jarnevich",
-        "given": "Catherine S."
-      },
-      {
-        "family": "Keitt",
-        "given": "Timothy H."
-      },
-      {
-        "family": "Kenney",
-        "given": "Melissa A."
-      },
-      {
-        "family": "Laney",
-        "given": "Christine M."
-      },
-      {
-        "family": "Larsen",
-        "given": "Laurel G."
-      },
-      {
-        "family": "Loescher",
-        "given": "Henry W."
-      },
-      {
-        "family": "Lunch",
-        "given": "Claire K."
-      },
-      {
-        "family": "Pijanowski",
-        "given": "Bryan C."
-      },
-      {
-        "family": "Randerson",
-        "given": "James T."
-      },
-      {
-        "family": "Read",
-        "given": "Emily K."
-      },
-      {
-        "family": "Tredennick",
-        "given": "Andrew T."
-      },
-      {
-        "family": "Vargas",
-        "given": "Rodrigo"
-      },
-      {
-        "family": "Weathers",
-        "given": "Kathleen C."
-      },
-      {
-        "family": "White",
-        "given": "Ethan P."
-      }
-    ],
-    "container-title": "Proceedings of the National Academy of Sciences",
-    "id": "Dietze2018",
-    "issue": "7",
-    "issued": {
-      "date-parts": [
-        [
-          2018
-        ]
-      ]
-    },
-    "page": "1424-1432",
-    "title": "<span class=\"nocase\">Iterative near-term ecological forecasting: Needs, opportunities, and challenges</span>",
-    "type": "article-journal",
-    "volume": "115"
-  },
-  {
-    "DOI": "10.1086/680475",
-    "ISBN": "0003-0147",
-    "ISSN": "1537-5323",
-    "PMID": "25905514",
-    "URL": "http://www.ncbi.nlm.nih.gov/pubmed/25905514",
-    "abstract": "Contemporary theory on the maintenance and stability of the savanna biome has focused extensively on how climate and disturbances interact to affect tree growth and demography. In particular, the role of fire in reducing tree cover from climatic maxima is now well appreciated, and in certain cases, herbivory also strongly affects tree cover. However, in African savannas and forests, harvest of trees by humans for cooking and heating is an oft overlooked disturbance. Thus, we incorporate tree harvest into a population dynamic model of grasses, savanna saplings, savanna trees, and forest trees. We use assumptions about the differential demographic responses of savanna trees and forest trees to harvest to show how tree harvest influences tree cover, demography, and community composition. Tree harvest can erode the intrinsic basin of attraction for forest and make a state transition via fire to savanna more likely. The savanna state is generally resilient to all but high levels of tree harvest because of the resprouting abilities of savanna trees. In the absence of active fire suppression, our analysis suggests that we can expect to see large and potentially irreversible shifts from forest to savanna as demand increases for charcoal in sub-Saharan Africa. On the other hand, savanna tree species’ traits promote savanna stability in the face of low to moderate harvest pressure.",
-    "author": [
-      {
-        "family": "Tredennick",
-        "given": "Andrew T"
-      },
-      {
-        "family": "Hanan",
-        "given": "Niall P"
-      }
-    ],
-    "container-title": "The American Naturalist",
-    "id": "Tredennick2015b",
-    "issue": "5",
-    "issued": {
-      "date-parts": [
-        [
-          2015
-        ]
-      ]
-    },
-    "keyword": "alternative stable states,fi re,forest,savanna,tree harvest",
-    "page": "E153-65",
-    "title": "<span class=\"nocase\">Effects of tree harvest on the stable-state dynamics of savanna and forest.</span>",
-    "type": "article-journal",
-    "volume": "185"
-  },
-  {
     "DOI": "10.7717/peerj.4485",
     "ISSN": "2167-8359",
     "URL": "https://peerj.com/articles/4485",
@@ -670,26 +793,26 @@
     "volume": "6"
   },
   {
-    "DOI": "10.1111/ele.12793",
-    "ISSN": "14610248",
-    "abstract": "Theory relating species richness to ecosystem variability typically ignores the potential for environmental variability to promote species coexistence. Failure to account for fluctuation-dependent coexistence mechanisms may explain observed deviations from the expected negative diversity-variability relationship, and limits our ability to predict the consequences of future increases in environmental variability. We use a consumer-resource model to explore how coexistence via the temporal storage effect and relative nonlinearity affects ecosystem variability. We show that a positive, rather than negative, diversity-variability relationship is possible when ecosystem function is sampled across a natural gradient in environmental variability and diversity. We also show how fluctuation-dependent coexistence can buffer ecosystem functioning against increasing environmental variability by promoting species richness and portfolio effects. Our work provides a general explanation for variation in observed diversity-variability relationships and highlights the importance of conserving regional species pools to help buffer ecosystems against predicted increases in environmental variability.",
+    "DOI": "10.1111/2041-210X.12686",
+    "ISSN": "2041210X",
+    "abstract": "1\\. Rapid environmental change has generated growing interest in forecasts of future population trajectories. Traditional population models built with detailed demographic observations from one study site can address the impacts of environmental change at particular locations, but are difficult to scale up to the landscape and regional scales relevant to management decisions. An alternative is to build models using population-level data that are much easier to collect over broad spatial scales than individual-level data. However, it is unknown whether models built using population-level data adequately capture the effects of density-dependence and environmental forcing that are necessary to generate skillful forecasts. 2. Here, we test the consequences of aggregating individual responses when forecasting the population states (percent cover) and trajectories of four perennial grass species in a semi-arid grassland in Montana, USA. We parameterized two population models for each species, one based on individual-level data (survival, growth and recruitment) and one on population-level data (percent cover), and compared their forecasting accuracy and forecast horizons with and without the inclusion of climate covariates. For both models, we used Bayesian ridge regression to weight the influence of climate covariates for optimal prediction. 3. In the absence of climate effects, we found no significant difference between the forecast accuracy of models based on individual-level data and models based on population-level data. Climate effects were weak, but increased forecast accuracy for two species. Increases in accuracy with climate covariates were similar between model types. 4. In our case study, percent cover models generated forecasts as accurate as those from a demographic model. For the goal of forecasting, models based on aggregated individual-level data may offer a practical alternative to data-intensive demographic models. Long time series of percent cover data already exist for many plant species. Modelers should exploit these data to predict the impacts of environmental change.",
     "author": [
       {
         "family": "Tredennick",
         "given": "Andrew T."
       },
       {
-        "family": "Adler",
-        "given": "Peter B."
+        "family": "Hooten",
+        "given": "Mevin B."
       },
       {
         "family": "Adler",
-        "given": "Frederick R."
+        "given": "Peter B."
       }
     ],
-    "container-title": "Ecology Letters",
-    "id": "Tredennick2017b",
-    "issue": "8",
+    "container-title": "Methods in Ecology and Evolution",
+    "id": "Tredennick2017a",
+    "issue": "5",
     "issued": {
       "date-parts": [
         [
@@ -697,86 +820,11 @@
         ]
       ]
     },
-    "keyword": "Coexistence,Consumer-resource dynamics,Diversity-stability hypothesis,Pulsed differential equation,Relative nonlinearity,Storage effect",
-    "page": "958-968",
-    "title": "<span class=\"nocase\">The relationship between species richness and ecosystem variability is shaped by the mechanism of coexistence</span>",
+    "keyword": "climate change,forecasting,grassland,integral projection model,population model,ridge regression,statistical regularization",
+    "page": "541-551",
+    "title": "<span class=\"nocase\">Do we need demographic data to forecast plant population dynamics?</span>",
     "type": "article-journal",
-    "volume": "20"
-  },
-  {
-    "ISSN": "02775786",
-    "abstract": "The Shoshone National Forest (Shoshone) covers 2.4 million acres of mountainous topography in northwest Wyoming and is a vital ecosystem that provides clean water, wildlife habitat, timber, grazing, recreational opportunities, and aesthetic value. The Shoshone has experienced and adapted to changes in climate for many millennia, and is currently experiencing a warming trend that is expected to accelerate in the next century. Climate change directly and indirectly affects the Shoshone’s high-elevation, mountainous terrain that supports unique and sometimes rare ecological components. Several vulnerable and very responsive resources and processes on the Shoshone could interact to produce unforeseeable or undesirable ecosystem changes, highlighting the need to identify potential resource vulnerabilities and develop adaptation pathways and flexibility in resource management options. The objective of this report is to synthesize the current understanding of the paleo and historical climate of the Shoshone as a reference point, determine what future climates may look like, and what the effects of future climate may be on natural resources. This information allows for the identification of vulnerabilities and information gaps, thereby aiding the development of adaptation tools and strategies.",
-    "author": [
-      {
-        "family": "Rice",
-        "given": "Janine"
-      },
-      {
-        "family": "Tredennick",
-        "given": "Andrew"
-      },
-      {
-        "family": "Joyce",
-        "given": "Linda A"
-      }
-    ],
-    "container-title": "General Technical Report RMRS-GTR-264",
-    "id": "Rice2012",
-    "issue": "January",
-    "issued": {
-      "date-parts": [
-        [
-          2012
-        ]
-      ]
-    },
-    "keyword": "Rocky Mountains,West,climate change,forest,natural systems,projections",
-    "page": "60",
-    "title": "<span class=\"nocase\">Climate Change on the Shoshone National Forest, Wyoming: A Synthesis of Past Climate, Climate Projections, and Ecosystem Implications</span>",
-    "type": "article-journal"
-  },
-  {
-    "DOI": "10.1111/aje.12238",
-    "ISBN": "0141-6707",
-    "ISSN": "13652028",
-    "abstract": "Theory and empirical evidence for the impacts of fire and herbivory in savannahs is well established – they are top-down disturbances that maintain savannahs in disequilibrium states away from potential tree cover. In African savannahs, the demand for fuelwood is extremely high, so tree harvest likely also has an impact, both directly and indirectly, on tree cover, density and biomass. Many savannah trees resprout vigorously from the base after harvest. However, harvested trees regenerate as saplings susceptible to fire and browsing, so harvest may have important demographic consequences. Here, we report the effects of tree harvest, and its interaction with fire and herbivory, on savannah dynamics by analysing woody regrowth following a harvest in arid Sahelian and mesic Guinean savannahs in Mali, West Africa. Tree harvest resulted in an overall reduction in wood production per tree compared to growth in nonharvested trees. Regrowth, either biomass or height, did not differ among fire and herbivory treatments. Our results suggest that the resprouting abilities that savannah trees have evolved to cope with frequent fire are essential for surviving tree harvest and subsequent disturbance. In these savannahs, regrowth is rapid enough in the first growing season to escape the impact of dry season fires.",
-    "author": [
-      {
-        "family": "Tredennick",
-        "given": "Andrew T."
-      },
-      {
-        "family": "Karembé",
-        "given": "Moussa"
-      },
-      {
-        "family": "Dembélé",
-        "given": "Fadiala"
-      },
-      {
-        "family": "Dohn",
-        "given": "Justin"
-      },
-      {
-        "family": "Hanan",
-        "given": "Niall P."
-      }
-    ],
-    "container-title": "African Journal of Ecology",
-    "id": "Tredennick2015a",
-    "issue": "4",
-    "issued": {
-      "date-parts": [
-        [
-          2015
-        ]
-      ]
-    },
-    "keyword": "Fire,Herbivory,Mali,Savannah,Tree harvest,West Africa",
-    "page": "487-495",
-    "title": "<span class=\"nocase\">No effects of fire, large herbivores and their interaction on regrowth of harvested trees in two West African savannahs</span>",
-    "type": "article-journal",
-    "volume": "53"
+    "volume": "8"
   },
   {
     "DOI": "10.1126/science.aad6236",
@@ -968,94 +1016,46 @@
     "volume": "351"
   },
   {
-    "DOI": "10.1111/2041-210X.12686",
-    "ISSN": "2041210X",
-    "abstract": "1\\. Rapid environmental change has generated growing interest in forecasts of future population trajectories. Traditional population models built with detailed demographic observations from one study site can address the impacts of environmental change at particular locations, but are difficult to scale up to the landscape and regional scales relevant to management decisions. An alternative is to build models using population-level data that are much easier to collect over broad spatial scales than individual-level data. However, it is unknown whether models built using population-level data adequately capture the effects of density-dependence and environmental forcing that are necessary to generate skillful forecasts. 2. Here, we test the consequences of aggregating individual responses when forecasting the population states (percent cover) and trajectories of four perennial grass species in a semi-arid grassland in Montana, USA. We parameterized two population models for each species, one based on individual-level data (survival, growth and recruitment) and one on population-level data (percent cover), and compared their forecasting accuracy and forecast horizons with and without the inclusion of climate covariates. For both models, we used Bayesian ridge regression to weight the influence of climate covariates for optimal prediction. 3. In the absence of climate effects, we found no significant difference between the forecast accuracy of models based on individual-level data and models based on population-level data. Climate effects were weak, but increased forecast accuracy for two species. Increases in accuracy with climate covariates were similar between model types. 4. In our case study, percent cover models generated forecasts as accurate as those from a demographic model. For the goal of forecasting, models based on aggregated individual-level data may offer a practical alternative to data-intensive demographic models. Long time series of percent cover data already exist for many plant species. Modelers should exploit these data to predict the impacts of environmental change.",
+    "DOI": "10.1111/geb.12122",
+    "ISSN": "1466822X",
+    "URL": "http://doi.wiley.com/10.1111/geb.12122",
     "author": [
       {
-        "family": "Tredennick",
-        "given": "Andrew T."
-      },
-      {
-        "family": "Hooten",
-        "given": "Mevin B."
-      },
-      {
-        "family": "Adler",
-        "given": "Peter B."
-      }
-    ],
-    "container-title": "Methods in Ecology and Evolution",
-    "id": "Tredennick2017a",
-    "issue": "5",
-    "issued": {
-      "date-parts": [
-        [
-          2017
-        ]
-      ]
-    },
-    "keyword": "climate change,forecasting,grassland,integral projection model,population model,ridge regression,statistical regularization",
-    "page": "541-551",
-    "title": "<span class=\"nocase\">Do we need demographic data to forecast plant population dynamics?</span>",
-    "type": "article-journal",
-    "volume": "8"
-  },
-  {
-    "DOI": "10.1111/ele.13098",
-    "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13098",
-    "abstract": "Theory predicts that intraspecific competition should be stronger than interspecific competition for any pair of stably coexisting species, yet previous literature reviews found little support for this pattern. We screened over 5400 publications and identified 39 studies that quantified phenomenological intraspecific and interspecific interactions in terrestrial plant communities. Of the 67% of species pairs in which both intra‐ and interspecific effects were negative (competitive), intraspecific competition was, on average, four to five‐fold stronger than interspecific competition. Of the remaining pairs, 93% featured intraspecific competition and interspecific facilitation, a situation that stabilises coexistence. The difference between intra‐ and interspecific effects tended to be larger in observational than experimental data sets, in field than greenhouse studies, and in studies that quantified population growth over the full life cycle rather than single fitness components. Our results imply that processes promoting stable coexistence at local scales are common and consequential across terrestrial plant communities.",
-    "author": [
-      {
-        "family": "Adler",
-        "given": "P.B."
-      },
-      {
-        "family": "Danielle",
-        "given": "Smull"
-      },
-      {
-        "family": "Beard",
-        "given": "Karen H"
-      },
-      {
-        "family": "Choi",
-        "given": "Ryan T"
-      },
-      {
-        "family": "Tucker",
-        "given": "Furniss"
-      },
-      {
-        "family": "Andrew",
-        "given": "Kulmatiski"
-      },
-      {
-        "family": "Meiners",
-        "given": "Joan M"
+        "family": "Hanan",
+        "given": "Niall P."
       },
       {
         "family": "Tredennick",
         "given": "Andrew T."
       },
       {
-        "family": "Veblen",
-        "given": "Kari E"
+        "family": "Prihodko",
+        "given": "Lara"
+      },
+      {
+        "family": "Bucini",
+        "given": "Gabriela"
+      },
+      {
+        "family": "Dohn",
+        "given": "Justin"
       }
     ],
-    "container-title": "Ecology Letters",
-    "id": "Adler2018ELE",
-    "issue": "0",
+    "container-title": "Global Ecology and Biogeography",
+    "id": "Hanan2014",
+    "issue": "3",
     "issued": {
       "date-parts": [
         [
-          2018
+          2014,
+          3
         ]
       ]
     },
-    "keyword": "Biodiversity,Lotka–Volterra,competition coefficient,forests,grasslands,meta‐analysis",
-    "title": "<span class=\"nocase\">Competition and coexistence in plant communities: intraspecific competition is stronger than interspecific competition</span>",
+    "keyword": "alternate stable states,remote sensing,savanna,tree cover,tree-grass",
+    "page": "259-263",
+    "title": "<span class=\"nocase\">Analysis of stable states in global savannas: is the CART pulling the horse?</span>",
     "type": "article-journal",
-    "volume": "0"
+    "volume": "23"
   }
 ]
