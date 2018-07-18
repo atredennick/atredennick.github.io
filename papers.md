@@ -4,7 +4,7 @@ title: Papers
 nav: papers
 ---
 
-{% for pubyear in (2009..2018) reversed %}
+{% for pubyear in (2010..2018) reversed %}
 # {{pubyear}}
 
 {% for p in site.data.bib %}
