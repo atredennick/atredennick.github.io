@@ -1,3 +1,14 @@
+- name: patches
+  lang: R
+  description: In-development package for calculating synchrony and stability metrics in multi-scale plot data
+  github: https://github.com/atredennick/patches/blob/master/README.md
+  doi: 10.6084/m9.figshare.5384167
+
+- name: size-environment
+  lang: R
+  description: Code base to reproduce analysis of size-by-environment interactions in fifteen plant species
+  github: https://github.com/atredennick/size-environment
+
 - name: CoexistenceStabilty
   lang: R
   description: Simulations of how coexistence shapes the diversity-stability relationship
