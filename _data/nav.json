@@ -13,16 +13,16 @@
         "i": "fa-users"
     },
     {
-        "url": "/research/",
-        "name": "research",
-        "label": "Research",
-        "i": "fa-graduation-cap"
-    },
-    {
         "url": "/papers/",
         "name": "papers",
         "label": "Publications",
         "i": "fa-file-text"
+    },
+    {
+        "url": "/research/",
+        "name": "research",
+        "label": "Research",
+        "i": "fa-graduation-cap"
     },
     {
         "url": "/software/",
