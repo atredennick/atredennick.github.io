@@ -6,7 +6,7 @@ nav: research
 
 **What makes populations, communities, and ecosystems fluctuate in time and space? Why are some communities more stable than others? Given the inherently variability of ecological systems, how can we best forecast future states at spatial scales relevant to land managers?** These questions form the core of my research program, and I strive to answer them by bringing together dynamic statistical models and data. A major theme throughout my research is the concept that ecosystem functioning can ultimately be understood through the lens of population dynamics (e.g., [Michel Loreau's great book, 'From Populations to Ecosystems'](http://press.princeton.edu/titles/9238.html)). So, I use dynamic population models and long term datasets to understand what makes communities and ecosystems stable, or not. The overarching goal of my research is to understand the **<span style="color:DarkSlateBlue">causes and consequences of biodiversity</span>**.
 
-<img src="./resources/research-schematic.png" alt="Research">
+<img src="./resources/research-schematic.jpg" alt="Research">
 
 --------------------------------------------
 
