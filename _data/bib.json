@@ -1,4 +1,44 @@
 [
+    {
+    "DOI": "10.1111/ele.13154",
+    "URL": "https://onlinelibrary.wiley.com/doi/10.1111/ele.13154",
+    "abstract": "In both plant and animal systems, size can determine whether an individual survives and grows under different environmental conditions. However, it is unclear whether and when size-dependent responses to exogenous environmental fluctuations affect population dynamics. Size-by-environment interactions create pathways for environmental fluctuations to influence population dynamics by allowing for negative covariation between sizes within vital rates (e.g. small and large individuals have negatively covarying survival rates) and/or size-dependent variability in a vital rate (e.g. survival of large individuals varies less than small individuals through time). Whether these phenomena affect population dynamics depends on how they are mediated by elasticities (they must affect the sizes and vital rates that matter) and their projected impacts will depend on model functional form (the impact of reduced variance depends on the relationship between the environment and vital rate). We demonstrate these ideas with an analysis of fifteen species from five semiarid plant communities. We find that size-by-environment interactions are common but do not impact long-term population dynamics. Size-by-environment interactions may yet be important for other species. Our approach can be applied to species in other ecosystems to determine if and how size-by-environment interactions allow them to cope with, or exploit, fluctuating environments.",
+    "author": [
+      {
+        "family": "Tredennick",
+        "given": "Andrew T."
+      },
+      {
+        "family": "Teller",
+        "given": "Brittany T."
+      },
+      {
+        "family": "Adler",
+        "given": "Peter B."
+      },
+      {
+        "family": "Hooker",
+        "given": "Giles"
+      },
+      {
+        "family": "Ellner",
+        "given": "Stephen P."
+      }
+    ],
+    "container-title": "Ecology Letters",
+    "id": "Tredennick2018ELE",
+    "issue": "0",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "title": "<span class=\"nocase\">Size-by-environment interactions: a neglected dimension of species' responses to environmental variation</span>",
+    "type": "article-journal",
+    "volume": "0"
+  },
   {
     "DOI": "10.1111/ele.13098",
     "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13098",
