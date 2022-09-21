@@ -1,0 +1,51 @@
+---
+title: "Andrew Tredennick"
+image: "Tredennick-photo.jpg"
+links:
+  - label: "Google Scholar"
+    url: "https://scholar.google.com/citations?user=QGPaeccAAAAJ&hl=en&oi=ao"
+  - label: LinkedIn
+    url: "https://linkedin.com/atredennick"
+  - label: Twitter
+    url: "https://twitter.com/atredennick"
+  - label: GitHub
+    url: "https://github.com/atredennick"
+  - label: Email
+    url: "mailto:atredenn@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Andrew Tredennick confronts dynamic models with data to explore, predict, and understand.
+He is currently a Research Scientist at Metrum Research Group, using mechanistic models and state-of-the-art statistical approaches to accelerate the drug development process.
+Andrew has completed projects on early warning signals for disease re-emergence and forecasting models of emerging infectious diseases, like COVID-19.
+He works from home in beautiful Laramie, Wyoming.
+
+
+## Education
+
+**Colorado State University** | Fort Collins, CO
+
+Ph.D. in Ecology | 2014
+
+**Texas Tech University** | Lubbock, TX
+
+B.S. in Biology (Minor in Chemistry) | 2006
+
+## Experience
+
+**Metrum Research Group** | Research Scientist II | September 2022 - Present
+
+**Western EcoSystems Technology** | Team Lead & Consulting Statistician | February 2019 - September 2022
+
+**Center for the Ecology of Infectious Diseases, University of Georgia** | Postdoctoral Research Associate | June 2018 - February 2019
+
+**Utah State University** | Postdoctoral Researcher | June 2014 - June 2018
+
+## Awards
+
+**National Science Foundation Postdoctoral Research Fellowship in Biology and Mathematics** | 2014
+
+**NASA Earth and Space Science Graduate Research Fellowship** | 2009
