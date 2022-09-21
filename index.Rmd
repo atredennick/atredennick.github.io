@@ -5,7 +5,7 @@ links:
   - label: "Google Scholar"
     url: "https://scholar.google.com/citations?user=QGPaeccAAAAJ&hl=en&oi=ao"
   - label: LinkedIn
-    url: "https://linkedin.com/atredennick"
+    url: "https://www.linkedin.com/in/atredennick/"
   - label: Twitter
     url: "https://twitter.com/atredennick"
   - label: GitHub
