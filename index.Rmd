@@ -19,7 +19,7 @@ output:
 ## Bio
 
 Andrew Tredennick confronts dynamic models with data to explore, predict, and understand.
-He is currently a Research Scientist at Metrum Research Group, using mechanistic models and state-of-the-art statistical approaches to accelerate the drug development process.
+He is currently a Senior Scientist at Metrum Research Group, using mechanistic models and state-of-the-art statistical approaches to accelerate the drug development process.
 Andrew has completed projects on early warning signals for disease re-emergence and forecasting models of emerging infectious diseases, like COVID-19.
 He works from home in beautiful Laramie, Wyoming.
 
@@ -36,7 +36,9 @@ B.S. in Biology (Minor in Chemistry) | 2006
 
 ## Experience
 
-**Metrum Research Group** | Research Scientist II | September 2022 - Present
+**Metrum Research Group** | Senior Scientist I | July 2023 - Present
+
+**Metrum Research Group** | Research Scientist II | September 2022 - June 2023
 
 **Western EcoSystems Technology** | Team Lead & Consulting Statistician | February 2019 - September 2022
 
